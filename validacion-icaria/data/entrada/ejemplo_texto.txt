@@ -1,0 +1,10 @@
+﻿Este es un archivo de texto de ejemplo.
+Contiene varias lineas para pruebas de analisis.
+
+Puedes usar este archivo para probar:
+- Conteo de lineas
+- Conteo de palabras
+- Busqueda de patrones
+
+Fecha: 2025-12-11
+Proyecto: proyectos_vs

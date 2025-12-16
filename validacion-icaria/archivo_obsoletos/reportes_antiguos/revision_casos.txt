@@ -1,0 +1,74 @@
+================================================================================
+REVISIÓN EXHAUSTIVA DEL ARCHIVO casos_revisados.txt
+================================================================================
+
+1. ESTADÍSTICAS GENERALES
+   Total casos: 1472
+   Total precondiciones: 4539
+   Casos ✅ OK: 0
+   Casos ❌ KO: 1
+   Casos desconocidos: 0
+
+2. PRECONDICIONES POR ESTADO
+   ✅ OK: 3163
+   ❌ KO: 1376
+   Desconocidas: 0
+   Porcentaje OK: 69.7%
+   Porcentaje KO: 30.3%
+
+3. INCONSISTENCIAS DETECTADAS
+   CASO 4019: Estado ❌ pero todas precondiciones ✅
+   Total inconsistencias: 1
+
+4. CÓDIGOS ICARIA UTILIZADOS
+   Códigos únicos: 44
+   TOP 10 más usados:
+       902x TIENE_BANCA_A_DISTANCIA
+       405x TIPO_DE_FIRMA_DIGITAL_BSO
+       370x ES_PERSONA_FISICA
+       338x TIENE_BANCA_A_DISTANCIA_EMPRESA
+       270x TIENE_CUENTA_VISTA
+       199x TIENE_TARJETA_PAGO_ACTIVA
+       125x ES_PERSONA_JURIDICA
+        82x TIENE_MOVIMIENTOS_EN_CUENTA
+        78x TIPO_SALDO_DV_PARAMETRIZADO
+        59x ES_TITULAR_ACTIVO_AVISOS_ALERTAS
+
+5. PRECONDICIONES SIN MODELAR (❌Sin modelar)
+   Total sin modelar: 1378
+   Conceptos únicos: 876
+   TOP 10:
+       30x Disponer de un usuario enrolado en BIZUM
+       19x con cuenta de valores
+       15x tiene que estar enrolado con un dispositivo
+       13x e intención de compra de activo ETF con doc KID vinculado
+       11x Destino fuera de ESP dentro de SEPA.
+       10x Disponer de cuenta asociada a bizum
+       10x que disponga de una cuenta de valores
+       10x Permisos de actuar
+        8x Usuario BS EMP con contrato de riesgo
+        8x Enrolar el dispositivo
+
+6. CASOS CON PROBLEMAS
+   CASO 1: Sin estado final
+   CASO 3: Sin estado final
+   CASO 5: Sin estado final
+   CASO 7: Sin estado final
+   CASO 9: Sin estado final
+   CASO 11: Sin estado final
+   CASO 13: Sin estado final
+   CASO 15: Sin estado final
+   CASO 17: Sin estado final
+   CASO 19: Sin estado final
+   CASO 23: Sin estado final
+   CASO 25: Sin estado final
+   CASO 27: Sin estado final
+   CASO 29: Sin estado final
+   CASO 31: Sin estado final
+   CASO 33: Sin estado final
+   CASO 37: Sin estado final
+   CASO 39: Sin estado final
+   CASO 41: Sin estado final
+   CASO 45: Sin estado final
+   ... y 1452 más
+   Total problemas: 1472

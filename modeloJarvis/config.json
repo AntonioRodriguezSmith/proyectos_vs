@@ -1,0 +1,21 @@
+{
+  "perfil_activo": "DXC",  
+  "perfiles": ["DXC", "MTP", "ASR"],
+  "restricciones": {
+    "DXC": {
+      "seguridad": "alta",
+      "auditoria": true,
+      "exposicion_api": false
+    },
+    "MTP": {
+      "seguridad": "media",
+      "auditoria": false,
+      "exposicion_api": true
+    },
+    "ASR": {
+      "seguridad": "baja",
+      "auditoria": false,
+      "exposicion_api": true
+    }
+  }
+}

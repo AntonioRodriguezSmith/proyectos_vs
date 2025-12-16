@@ -1,0 +1,29 @@
+{
+  "separacion_tipo_persona": {
+    "descripcion": "Separar tipo de persona del tipo de contrato en líneas distintas",
+    "ejemplos": [
+      {
+        "incorrecto": "- Disponer de un usuario con un contrato de banca a distancia particular✅TIENE_BANCA_A_DISTANCIA",
+        "correcto": [
+          "- Tipo Particular ✅ES_PERSONA_FISICA",
+          "- Disponer de un contrato de banca a distancia ✅TIENE_BANCA_A_DISTANCIA"
+        ]
+      },
+      {
+        "incorrecto": "- Usuario de empresas con banca distancia empresas✅TIENE_BANCA_A_DISTANCIA_EMPRESA",
+        "correcto": [
+          "- Tipo Empresa ✅ES_PERSONA_JURIDICA",
+          "- Disponer de un contrato de banca a distancia empresa ✅TIENE_BANCA_A_DISTANCIA_EMPRESA"
+        ]
+      }
+    ]
+  },
+  "codigos_huerfanos": {
+    "descripcion": "Añadir texto descriptivo a códigos sin contexto",
+    "mapeos": {
+      "✅TIPO_SALDO_DV_PARAMETRIZADO": "- Que dispongan de saldo suficiente✅TIPO_SALDO_DV_PARAMETRIZADO",
+      "✅TIENE_TARJETA_PAGO_ACTIVA": "- Tenga tarjeta de pago activa✅TIENE_TARJETA_PAGO_ACTIVA",
+      "✅TIPO_DE_FIRMA_DIGITAL_BSO": "- Con firma digital✅TIPO_DE_FIRMA_DIGITAL_BSO"
+    }
+  }
+}

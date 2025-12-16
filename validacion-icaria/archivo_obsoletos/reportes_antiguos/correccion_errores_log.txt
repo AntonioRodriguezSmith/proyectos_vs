@@ -1,0 +1,36 @@
+CORRECCIONES APLICADAS A casos_revisados.txt
+================================================================================
+
+Backup creado: c:\Users\rodri\proyectos_vs\data\entrada\casos_bs\casos_revisados_backup_errores_corregidos.txt
+Total cambios: 10
+
+L120: Case error: TIPO_SALDO_DV_PARAMETRIZado → TIPO_SALDO_DV_PARAMETRIZADO
+  - Con saldo✅TIPO_SALDO_DV_PARAMETRIZado
+
+L187: Case error: TIENE_BANCA_A_DISTANCia → TIENE_BANCA_A_DISTANCIA
+  - Disponer de un usuario que contenga un contrato de banca a distancia✅TIENE_BAN
+
+L474: Case error: TIENE_CUENTA_VISTa → TIENE_CUENTA_VISTA
+  - Disponga de diversas cuentas✅TIENE_CUENTA_VISTa
+
+L1402: Case error: TIENE_BANCA_A_DISTANCia → TIENE_BANCA_A_DISTANCIA
+  - Disponer de un usuario que contenga un contrato de banca a distancia✅TIENE_BAN
+
+L2090: Case error: TIENE_BANCA_A_DISTANCia → TIENE_BANCA_A_DISTANCIA
+  - Disponer de un usuario que contenga un contrato de banca a distancia✅TIENE_BAN
+
+L11413: Case error: TIPO_SALDO_DV_PARAMETRIZado → TIPO_SALDO_DV_PARAMETRIZADO
+  - Debe tener saldo suficiente en la cuenta para realizar la operación ✅TIPO_SALD
+
+L11762: Case error: TIENE_BANCA_A_DISTANCia → TIENE_BANCA_A_DISTANCIA
+  - Disponer de usuario con banca a distancia Particular ✅TIENE_BANCA_A_DISTANCia
+
+L11931: Case error: TIENE_BANCA_A_DISTANCia → TIENE_BANCA_A_DISTANCIA
+  - Usuario regular que tenga dado de alta un contrato de banca a distancia de tip
+
+L12005: Case error: TIENE_BANCA_A_DISTANCia → TIENE_BANCA_A_DISTANCIA
+  ✅TIENE_BANCA_A_DISTANCia_EMPRESA
+
+L12795: Case error: TIENE_BANCA_A_DISTANCia → TIENE_BANCA_A_DISTANCIA
+  - Disponer de un usuario que tenga un contrato de banca a distancia de tipo Part
+

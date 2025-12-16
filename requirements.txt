@@ -1,0 +1,34 @@
+# requirements.txt unificado para todo el monorepo
+# Fecha de actualización: 2025-12-15
+# 
+# Este archivo centraliza todas las dependencias de los proyectos Python del monorepo.
+# Cada sección indica a qué proyecto corresponde cada dependencia.
+
+###############################
+# modeloJarvis
+###############################
+fastapi
+uvicorn
+requests
+pytest
+
+###############################
+# validacion-icaria
+###############################
+# Analisis de datos
+jupyter==1.0.0
+pandas==2.2.0
+numpy==1.26.4
+openpyxl==3.1.2
+matplotlib==3.8.3
+seaborn==0.13.2
+# Procesamiento de texto
+chardet==5.2.0
+# Utilidades
+tqdm==4.66.1
+python-dotenv==1.0.0
+
+###############################
+# inicio_vs
+###############################
+# (Sin dependencias externas actualmente)

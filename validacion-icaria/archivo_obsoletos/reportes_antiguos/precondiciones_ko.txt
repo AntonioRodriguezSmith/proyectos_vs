@@ -1,0 +1,1557 @@
+1. que tenga documentos pendientes de firmar por otros como por ejemplo Depósitos ❌
+2. que disponga de un usuario consultivo dado de alta ❌
+3. que disponga de un usuario consultivo dado de alta ❌
+4. tiene que estar enrolado con un dispositivo ❌
+5. y tener una cuenta asociada a este dispositivo ❌
+6. El usuario debe tener diversas Acciones Pendientes ❌
+7. tiene que estar enrolado con un dispositivo ❌
+8. y tener una cuenta asociado a este dispositivo ❌
+9. El usuario debe tener diversos movimientos Pendientes ❌
+10. este usuario debe estar enrolado en otra entidad diferente a Banc Sabadell en el servicio de bizum ❌
+11. tiene que estar enrolado con un dispositivo ❌
+12. y tener una cuenta asociado a este dispositivo ❌
+13. tiene que estar enrolado con un dispositivo ❌
+14. y tener una cuenta asociada a este dispositivo ❌
+15. disponer del teléfono del cliente al que enviaremos el dinero ❌
+16. este debe estar enrolado en la aplicación y tener activado Bizum ❌
+17. una de ellas concretamente la cuenta la cual se va a utilizar para hacer el envío que no disponga de saldo suficiente ❌
+18. tiene que estar enrolado con un dispositivo ❌
+19. y tener una cuenta asociada a este dispositivo ❌
+20. que este enrolado en Bizum ❌
+21. disponer de 3 números de teléfono que estén dados de alta en la White list para poder realizar la operación de envío múltiple ❌
+22. y este inscrito en otra entidad en el servicio de Pagos inmediatos ❌
+23. que este enrolado en Bizum ❌
+24. Disponga de alguna solicitud de dinero recibida ❌
+25. que este enrolado en Bizum ❌
+26. y disponer de 3 destinatarios que tengan el bizum enrolado ❌
+27. que este enrolado en Bizum ❌
+28. y este enrolado en Bizum ❌
+29. tipo Particular puro de Urquijo que posea más de una cartera ❌
+30. que disponga de documentos documentos ❌
+31. Con una cuenta Ahorro Expansión activa ❌
+32. que cumpla con lo requisitos de Iselling para poder contratar una cuenta CIALP ❌
+33. que cumpla con lo requisitos de Iselling para poder contratar una cuenta ❌
+34. con movimientos por cobro de recibo ❌
+35. Disponga de timeline ❌
+36. que posea cuenta expansión ❌
+37. con un movimiento de transferencia internacional común realizado recientemente y que dicha transferencia no haya generado comisión ❌
+38. y disponer de timeline ❌
+39. que posea cuenta expansión ❌
+40. con un movimiento de transferencia nacional común realizado recientemente y que dicha transferencia no haya generado comisión ❌
+41. que posea cuenta que no sea expansión ❌
+42. Un movimiento de transferencia realizado recientemente sin comisión ❌
+43. y disponer de timeline ❌
+44. Disponga de timeline ❌
+45. Pueda acceder como agente desde el acceso a Particulares ❌
+46. con al menos una cuenta de la que sea titular ❌
+47. Con Ahorro Expansión con rutina del Tiempo Desactivada ❌
+48. Con Ahorro Expansión con rutina de Redondeo activa ❌
+49. Esta prueba verifica el mensaje de una cuenta sin movimientos ❌
+50. y no salte SCA en el login ❌
+51. para realizar esta prueba se facilitan los siguientes datos en la columna datos de prueba ❌
+52. Haya actualizado el DNI ❌
+53. Alguna de estas cuentas disponga de domiciliaciones ❌
+54. Alguna de estas cuentas disponga de domiciliaciones de pago bloqueadas ❌
+55. que posea más de una disposición pendiente de amortizar ❌
+56. con una Línea Expansión con morosidad ❌
+57. Disponer de un usuario válido para acceder a Blink Seguros con Precotizaciones ❌
+58. Disponer de esta URL que es un simulador para poder realizar esta prueba ❌
+59. pilotado con DENY en el login ❌
+60. Este bloqueada ❌
+61. Con Tarjetas de beneficiarios pero ingresando desde la banca distancia del Titular de la cuenta de la misma ❌
+62. con forma de pago Todo el saldo pendiente ❌
+63. disponer de un numero de Tarjeta extranjera ❌
+64. disponer de los servicios de redsys activos ❌
+65. disponer de un numero de Tarjeta extranjera ❌
+66. De la cuenta que se utilice sea autorizado ❌
+67. disponer de un numero de Tarjeta extranjera ❌
+68. disponer de los servicios de redsys activos ❌
+69. La tarjeta tiene que ser con plástico activo ❌
+70. La tarjeta tiene que ser con plástico activo ❌
+71. Disponga de una tarjeta de crédito en la cual sea beneficiario ❌
+72. Disponga de una tarjeta de débito en la cual sea beneficiario ❌
+73. Sea titular de un contrato de tarjeta de crédito cuyo titular de la tarjeta sea otra persona ❌
+74. Disponga de una tarjeta Via T ❌
+75. que disponga de una tarjeta tipo Menú Card pendiente de activar ❌
+76. Tenga una o varias Tarjetas Repsol ❌
+77. y autónomo que pueda acceder desde el segmento de particulares ❌
+78. Contratado el nuevo plan de ahorro ❌
+79. Contratado el nuevo plan de ahorro ❌
+80. Contratado el nuevo plan de ahorro ❌
+81. Disponga de diversos planes de ahorro ❌
+82. Usuario con más de un titular ❌
+83. con préstamo preconcedido Bureaux N ❌
+84. con un SCL ❌
+85. y cuenta con más de un titular ❌
+86. y Préstamo Sabadell preconcedido ❌
+87. Disponga de Transferencias periódicas dadas de alta ❌
+88. que disponga de transferencias Internacionales efectuadas ❌
+89. que disponga de transferencias efectuadas ❌
+90. y disponer de una cuenta del grupo para poder hacer una transferencia en Divisa ❌
+91. El usuario debe de disponer de una cuenta en divisa distinta al EUR ❌
+92. y sea empleado ❌
+93. que tenga una cuenta bloqueada ❌
+94. que no disponga de saldo en la cuenta origen ❌
+95. y la cuenta de cargo debe de tener al menos dos titulares ❌
+96. que dispongan de una cuenta en la cual el tipo de firma sea mancomunada ❌
+97. en la cual deban firmar los 2 intervinientes ❌
+98. para poder hacer una transferencia para poder superar el limite diario ❌
+99. Tipo de firma indistinto ❌
+100. 1 de sus cuentas ha de estar en negativo ❌
+101. Tipo de firma indistinto ❌
+102. La cuenta de origen no ha de tener saldo al descubierto permitido ❌
+103. Tipo de firma indistinto ❌
+104. Revisar el límite diario de transferencias nacionales del usuario ❌
+105. y suficiente saldo para superarlo ❌
+106. Tipo de firma indistinto ❌
+107. Esta cuenta disponga de firma conjunta ❌
+108. Bloqueada ❌
+109. Con saldo retenido ❌
+110. Tipo de firma indistinto ❌
+111. La cuenta de origen no ha de tener saldo al descubierto permitido ❌
+112. y de movimientos y ordenes en divisa euro y diferente a euro ❌
+113. Cumpla con los requisitos para poder operar dentro del mercado de Valores ❌
+114. Debe disponer de valores con títulos ya comprados en mercado internacional ❌
+115. El usuario Red de agente, debe poseer al menos un CCV en su contrato Particular ❌
+116. El usuario Red de agente debe disponer de al menos un cliente con CCV contratadas ❌
+117. que disponga de posición con movimientos ❌
+118. que tenga cargado un documento de recibo para descargar ❌
+119. Disponga de formulario de solicitud de orden de domiciliación ❌
+120. y dos recibos de telefonía ❌
+121. en formato correcto ya preparado para la subida ❌
+122. Disponga de formulario de solicitud de orden de domiciliación ❌
+123. y más de un recibo a domiciliar ❌
+124. Disponga de formulario de solicitud de orden de domiciliación ❌
+125. y al menos un recibo de Grandes emisores ❌
+126. que disponga de fondos ❌
+127. a poder ser también depósitos ❌
+128. que disponga de fondos ❌
+129. El usuario debe disponer de prestamos incorporados a su nombre con destino profesional ❌
+130. Haber realizado una transferencia a una entidad que no sea BS ❌
+131. Tipo de firma indistinto ❌
+132. La cuenta de origen ha de tener saldo al descubierto permitido ❌
+133. y esta tenga al menos dos titulares ❌
+134. disponer de un IBAN de una cuenta que este cancelada ❌
+135. El usuario debe disponer de algún contrato de cualquier tipo firmado anteriormente ❌
+136. Usuario dual con 2 perfiles Particular y Empresa ❌
+137. tiene que estar enrolado con un dispositivo ❌
+138. y tener una cuenta asociada a este dispositivo ❌
+139. disponer del teléfono del cliente al que enviaremos el dinero ❌
+140. este debe estar enrolado en la aplicación y tener activado el Instant Payments ❌
+141. tiene que estar enrolado con un dispositivo ❌
+142. y tener una cuenta asociada a este dispositivo ❌
+143. y esté inscrito en otra entidad en el servicio de Pagos inmediatos ❌
+144. tipo Particular puro de Urquijo ❌
+145. que posea Carteras ❌
+146. tipo Particular puro de Urquijo ❌
+147. que disponga de productos SICAVs para poder realizar consultas ❌
+148. que disponga de notificaciones de documentos destacados pendientes de leer ❌
+149. Con una cuenta base donde el titular sea autorizado ❌
+150. Con una cuenta base y sin cuenta cialp ❌
+151. Usuario con un hijo mayor de edad ❌
+152. Usuario sin hijos que solo muestra la opción de contratación "Solo yo" ❌
+153. Usuario sin hijos que solo muestra la opción de contratación "Solo yo" ❌
+154. Usuario sin hijos que solo muestra la opción de contratación "Solo yo" ❌
+155. Usuario con la opción de contratar para otra persona ❌
+156. Usuario con la opción de contratar para solo yo y para otra persona ❌
+157. con traspasos entre cuentas propias que tengan alias largos ❌
+158. Disponga de timeline ❌
+159. Haya entrado al menos una vez en el BS Online ❌
+160. De documentos fiscales disponibles ❌
+161. que disponga de una cuenta con un pago pendiente ❌
+162. que no disponga de ninguna cuenta ❌
+163. donde sea titular y autorizado ❌
+164. Disponga de timeline ❌
+165. Usuario con una sola cuenta ❌
+166. Tener un usuario con un email de ❌
+167. que disponga de recibos domiciliados cargados en cuenta ❌
+168. Haya realizado envíos de recibos que estén firmados ❌
+169. Haya realizado envíos de recibos ❌
+170. Disponga de fondos de inversión internacionales ya dados de alta ❌
+171. El usuario no debe disponer del producto de línea expansión ❌
+172. ya activo y debe tener al menos un movimiento de disposición ❌
+173. con una Línea Expansión sin utilizar ❌
+174. con una Línea Expansión utilizada con disponible de 150€ o más ❌
+175. Este bloqueado ❌
+176. Este bloqueada ❌
+177. Pueda acceder como agente desde el acceso a particulares ❌
+178. Disponga de una tarjeta mixta en la cual sea beneficiario ❌
+179. Disponga de una o varias tarjetas de débito ❌
+180. Disponga de una tarjeta de Línea Expansion ❌
+181. Disponga al menos una tarjeta prepago ❌
+182. Tenga una o varias Tarjetas Repsol ❌
+183. Disponga de ningún contrato de Plan de Pensiones ❌
+184. que no disponga de ningún Plan de previsión de asegurado ❌
+185. que sea puro de Urquijo ❌
+186. Contenga al menos un plan de ahorro BS ❌
+187. que sea puro de Urquijo ❌
+188. Contenga al menos un plan de ahorro ❌
+189. Usuario autónomo con contrato de banca distancia de particular y autónomo ❌
+190. que pueda acceder desde el segmento de particulares ❌
+191. que al menos disponga de un Plan de Previsión Asegurado Futuro ❌
+192. Contratado al menos un producto antiguo de ahorro (trimestral o semestral) ❌
+193. Contenga al menos dos planes de ahorro activos ❌
+194. El usuario debe disponer de prestamos concedidos ❌
+195. Al menos un contrato de prestamos Hipotecarios no domiciliados en BS con recibos impagados disponibles ❌
+196. Al menos un contrato de prestamos Hipotecarios con recibos impagados disponibles ❌
+197. Al menos un contrato de prestamos disponible con domiciliación externa y disponga de recibos impagados ❌
+198. Al menos un contrato de préstamo no hipotecario domiciliados en BS disponible y disponga de recibos impagados ❌
+199. donde esté marcado "Ver cuentas empresa" ❌
+200. El usuario debe disponer de prestamos incorporados con destino profesional donde conste como autorizado ❌
+201. Disponga de seguros de planes personalizados de protección ❌
+202. y le falte por contratar algún seguro de otra categoría ❌
+203. que disponga de alguna tarjeta con la marca Apple Pay ❌
+204. Tener usuario Particular que disponga de alguna cuenta con firma conjunta ❌
+205. Titular de mínimo una cuenta Accionista ❌
+206. Titular de una cuenta NO CIALP ❌
+207. 1 de estas cuentas ha de estar en negativo ❌
+208. que disponga de contrato de valores y de movimientos y órdenes en divisa euro y diferente a euro ❌
+209. que disponga de contrato de valores y de movimientos y órdenes en divisa Euro y diferente a Euro ❌
+210. disponga de órdenes pendientes, órdenes ejecutadas y finalizadas ❌
+211. Contrato confirmiline ❌
+212. Usuario BS EMP con contrato de riesgo ❌
+213. Posea borrador automático ❌
+214. Usuario BS EMP con contrato de riesgo ❌
+215. Usuario BS EMP con contrato de riesgo ❌
+216. Usuario BS EMP con contrato de riesgo ❌
+217. Beneficiario de crédito previamente guardado ❌
+218. Usuario BS EMP ❌
+219. Que posea créditos documentarios con discrepancias ❌
+220. Usuario BS EMP con contrato de riesgo ❌
+221. Que posea 1 borrador de crédito documentario ❌
+222. Usuario BS EMP con contrato de riesgo ❌
+223. Que posea múltiples borradores de crédito documentario ❌
+224. Usuario BS EMP con contrato de riesgo ❌
+225. Que posea borrador de crédito documentario ❌
+226. El nombre de la empresa contenga guiones y apostrofes ❌
+227. y hasta seis cuentas ❌
+228. una de ellas con al menos 60 movimientos ❌
+229. que posea cuenta en divisa diferente a euro ❌
+230. que posea más de 6 cuentas ❌
+231. y una de las cuentas con más de 20 movimientos ❌
+232. Posea cuentas con movimientos mayor a 90 días ❌
+233. Cuenta que posea movimientos mayor a 90 días ❌
+234. que posea cuenta con movimientos mayor a 90 días ❌
+235. de tipo Particular y Empresa ❌
+236. Disponga de cuentas con finalidad particular y empresa ❌
+237. Sus cuentas tengan titularidad física y finalidad particular ❌
+238. Alguna de estas cuentas disponga de domiciliaciones ❌
+239. que disponga de recibos domiciliados ❌
+240. que posea más de 10 ficheros enviados anteriormente de tipo transferencia 34-14 o 34-15 ❌
+241. que posea ficheros enviados anteriormente de tipo Adeudos SEPA ❌
+242. Contenga un contrato de fondos que este asesorado ❌
+243. que tenga dado de alta un contrato de Fondos de inversión ❌
+244. que disponga de un contrato de fondos de inversión ❌
+245. Sea un cliente que no este asesorada ❌
+246. Disponer de un usuario autónomo o microempresa con al menos una LIPO vigente de la que se haya realizado alguna disposición ❌
+247. Disponer de un usuario de empresas sin LIPO contratada ❌
+248. Disponer de un usuario autónomo o microempresa con una LIPO vigente sin deterioro, ni caducidad próxima y con disponible superior al mínimo de disposición ❌
+249. Este bloqueada ❌
+250. que no se conecte desde hace 90 dias ❌
+251. para realizar la prueba ❌
+252. Este bloqueado ❌
+253. Este bloqueada ❌
+254. que disponga de fondos, cuentas y valores a poder ser también depósitos ❌
+255. con usuario con mas de un contrato marco ❌
+256. De Tarjetas Virtuales Sabadell Travel Payments ❌
+257. que disponga de transferencias Internacionales efectuadas para poderlas anular. ❌
+258. Comprobar que la transferencia se haya realizado el mismo día ❌
+259. que disponga de operaciones de transferencia Intenacionales pedientes de firma ❌
+260. que disponga de transferencias efectuadas para poderlas anular ❌
+261. Destino fuera de ESP dentro de SEPA. ❌
+262. que disponga de al menos 2 cuentas en divisa distinta a EUR ❌
+263. Tener usuario Empresa firma ESPECIAL ❌
+264. El usuario tiene que tener una cuenta de 3 autorizados con formula de firma tipo Un interviniente determinado indistinto y con límite de fórmula menor a 100 euros. ❌
+265. El importe de la operación debe ser menor de 100€ ❌
+266. Tener usuario Empresa firma ESPECIAL ❌
+267. El usuario tiene que tener una cuenta de 3 autorizados con formula de firma tipo N intervinientos determinados y con límite de fórmula entre 100 y 200 € ❌
+268. El importe de la operación debe estar comprendido entre 100 y 200 euros ❌
+269. Tener usuario Empresa firma ESPECIAL ❌
+270. El usuario tiene que tener una cuenta de 3 autorizados con formula de firma tipo N intervinientos determinado y con límite de fórmula mayor de 200 € ❌
+271. El importe de la operación debe ser mayor a 200 euros ❌
+272. Tener usuario Empresa firma CONJUNTA ❌
+273. Tener usuario Empresa firma ESPECIAL ❌
+274. De un beneficiario dado de alta para Transferencia Internacional ❌
+275. De un beneficiario dado de alta para transferencias Nacionales ❌
+276. De un beneficiario dado de alta para Transferencia Periódicas ❌
+277. De un beneficiario dado de alta para Transferencia Internacionales ❌
+278. De un beneficiario dado de alta para Transferencia Nacional ❌
+279. Destino fuera de ESP dentro de SEPA. ❌
+280. Destino fuera de ESP dentro de SEPA. ❌
+281. Realizar una transferencia dentro de la franja horaria de Destino/Correspondiente ❌
+282. Destino fuera de ESP dentro de SEPA. ❌
+283. El usuario debe tener un contrato de cambio contratado para el cambio USD/EUR ❌
+284. Destino fuera de ESP dentro de SEPA. ❌
+285. El usuario debe tener un contrato de cambio contratado para el cambio USD/EUR ❌
+286. que disponga de al menos una cuenta bloqueada ❌
+287. que dispongan de una cuenta en la cual el tipo de firma sea mancomunada con firma Especial con VTPC1 configurada ❌
+288. en la cual deban firmar los 2 intervinientes para finalizar la opeación ❌
+289. que tenga beneficiarios guardados ❌
+290. Pueda realizar al menos una transferencia para superar el limite máximo diario para poder consultar el limite debemos ir a la opción Consulta de límites operativos columna indis.diario ❌
+291. Realizar una transferencia dentro de la franja horaria de Destino/Correspondiente ❌
+292. Destino fuera de ESP dentro de SEPA. ❌
+293. Realizar una transferencia dentro de la franja horaria de Destino/Correspondiente ❌
+294. Destino fuera de ESP dentro de SEPA. ❌
+295. El usuario debe tener un contrato de cambio contratado para el cambio USD/EUR ❌
+296. Realizar una transferencia dentro de la franja horaria de Destino/Correspondiente ❌
+297. Destino fuera de ESP dentro de SEPA. ❌
+298. Nota: Consulta el texto descargado en español ❌
+299. que disponga de una cuenta cuya divisa sea distinta al EUR ❌
+300. Nota: probar una vez con cada tipo de usuario, autónomos empresas ❌
+301. Nota: probar una vez con cada tipo de usuario, autónomos empresas ❌
+302. Destino fuera de ESP dentro de SEPA. ❌
+303. con al menos una Cuenta EUR. ❌
+304. Destino fuera de ESP dentro de SEPA ❌
+305. Destino fuera de ESP dentro de SEPA. ❌
+306. La cuenta de origen debe tener saldo negativo y no ha de tener saldo al descubierto permitido ❌
+307. Una de las cuentas debe de tener poco saldo ❌
+308. Revisar el límite diario de transferencias nacionales del usuario y tener esta cantidad ❌
+309. con beneficiarios ❌
+310. Haber realizado una transferencia a otra cuenta de BS ❌
+311. Disponga de al menos una cuenta en la que haya configurada un tipo de firma Especial cón fórmula de firma en la cual se necesiten los dos titulares para firmar ❌
+312. que haya efectuado transferencias para poder recuperar una transferencia anterior ❌
+313. Posea una sola cuenta ❌
+314. 1 de estas cuentas ha de estar en negativo ❌
+315. Descripción ❌
+316. Validar la integridad funcional del campo importe de traspaso unificado ❌
+317. Pueda acceder como agente desde el acceso a empresas ❌
+318. El usuario Red de agente, debe poseer al menos un CCV en su contrato Empresa ❌
+319. El usuario Red de agente debe disponer de al menos un cliente con CCV contratadas ❌
+320. Disponer de un Usuario que disponga de al menos una cartera BSFGS como Particular ❌
+321. otra BSFGS como Empresa. ❌
+322. En el contrato de Particular y en el de Empresas debe tener marcada ver cuentas de Particulares/empresas respectivamente ❌
+323. Contrato confirmiline. ❌
+324. Dicho contrato tiene que tener saldo dispuesto (órdenes) ❌
+325. Disponga de PDFs cargados de estos movimientos ❌
+326. que disponga del check Norma 43 ❌
+327. El nombre de la empresa contenga guiones y apostrofes ❌
+328. Pueda acceder como agente desde el acceso a Empresas ❌
+329. Fichero en formato base de datos Banc Sabadell de adeudos directos sepa ❌
+330. Fichero en formato txt de confirming ❌
+331. Fichero en formato xml de transferencias ❌
+332. que posea cuenta con saldo ❌
+333. Disponer de acceso a UAT ❌
+334. Varios contratos o líneas de riesgo vigente ❌
+335. con al menos una línea que posea más de 20 movimientos. ❌
+336. que disponga de operaciones de transferencia nacional pedientes de firma ❌
+337. Destino fuera de ESP dentro de SEPA. ❌
+338. que dispongan de una cuenta en la cual el tipo de firma sea mancomunada con VTPC1 configurada ❌
+339. en la cual deban firmar los 2 intervinientes para finalizar la opeación ❌
+340. y la cuenta disponga de saldo para poder realizar la operación ❌
+341. Transferencia Urgente en EUR ❌
+342. La cuenta de origen ha de tener saldo al descubierto permitido ❌
+343. Disponga de al menos una cuenta bloqueada ❌
+344. que disponga de al menos una cuenta que tenga saldo ❌
+345. disponer de un IBAN de una cuenta que este cancelada ❌
+346. que disponga de alguna cuenta con fondos ❌
+347. Disponer de un Usuario que disponga de al menos una cartera BSFGS como Particular ❌
+348. otra BSFGS como Empresa. ❌
+349. En el contrato de Empresas NO debe tener marcada ver cuentas de Particulares ❌
+350. y en el de Particulares no debe tener marcada la opcion vert cuentas de Empresa ❌
+351. y sin contrato confirmiline. ❌
+352. Tenga más de un interviniente ❌
+353. que una de las cuentas tenga múltiples titulares ❌
+354. y otra cuenta tenga un solo titular ❌
+355. que una de las cuentas tenga múltiples titulares ❌
+356. y otra cuenta tenga un solo titular ❌
+357. Posea al menos una cuenta con balance negativo ❌
+358. Sea apoderado de una empresa ❌
+359. Sea apoderado de una empresa ❌
+360. Tarjeta Secundaria Empresa vinculada a cliente con contrato de autónomo con cuentas de titularidad física y finalidad particular ❌
+361. Descripción ❌
+362. Disponga de cuentas con finalidad particular y empresa ❌
+363. que tenga dada de alta más de una cuenta de depósito ❌
+364. que no disponga de recibos domiciliados cargados en cuenta ❌
+365. que disponga de recibos domiciliados cargados en cuenta ❌
+366. Disponer de un usuario autonomo o microempresa con una LIPO vigente sin deterioro, ni caducidad próxima y con disponible superior al mínimo de disposición sobre la que se haya realizado alguna disposición previa ❌
+367. Disponer de un usuario autónomo o microempresa con al menos una LIPO vigente cuyo importe disponible sea menor de 500 EUR ❌
+368. Disponer de un usuario autonomo o microempresa con una LIPO vigente sin deterioro, ni caducidad próxima y con disponible superior al mínimo de disposición ❌
+369. Al menos una línea de riesgo vigente que posea más de 20 movimientos. ❌
+370. que posea varios contratos Marco ❌
+371. y qie se haya conectado mas de una vez por algún canal ❌
+372. Sea apoderado de una empresa ❌
+373. con dos divisas ❌
+374. con firmas de fichero pendientes ❌
+375. con solo un contrato marco y firmas pendientes de operaciones ❌
+376. con préstamo preconcedido con un titular (bureau S) y una única cuenta. ❌
+377. con préstamo preconcedido con dos titulares (bureau N) y varias cuentas ❌
+378. Haber realizado transferencias ❌
+379. Tener Beneficiarios guardados ❌
+380. Pueda acceder como agente desde el acceso a empresas ❌
+381. El usuario Red de agente, NO debe poseer ninguna CCV en su contrato Empresa ❌
+382. El usuario Red de agente debe disponer de al menos un cliente con CCV contratadas ❌
+383. Debido a proyecto HDEV-408870, para que salte SCA es necesario que el usuario no sea de confianza para el dispositivo de prueba ❌
+384. y no disponga de tarjetas de crédito o débito de Banco Sabadell ❌
+385. y la fecha de caducidad del DNI no esté informada en SIBIS. ❌
+386. Notificaciones en el listado de notificaciones ❌
+387. que tenga el servicio de Notificaciones activado. ❌
+388. Disponer de mensajes en el buzón para poder visualizarlos ❌
+389. Disponer de un usuario enrolado en BIZUM ❌
+390. Disponer de un dispositivo que contenga un contacto con las siguiente características ❌
+391. Disponer de un usuario enrolado en BIZUM ❌
+392. El usuario debe tener contactos asociados a su número de teléfono. ❌
+393. El usuario debe tener saldo suficiente en la cuenta para realizar la operación. ❌
+394. Disponer de un usuario enrolado en BIZUM ❌
+395. Disponer un número de teléfono que no este asociado a bizum ❌
+396. Disponer de un usuario enrolado en BIZUM ❌
+397. y en el móvil ❌
+398. El usuario debe tener contactos asociados a su número de teléfono. ❌
+399. Disponer de un usuario enrolado en BIZUM ❌
+400. El usuario debe tener contactos asociados a su número de teléfono. ❌
+401. El usuario NO tiene dinero suficiente en la cuenta vinculada a BSW. ❌
+402. El usuario no debe estar asociado a Bizum ❌
+403. e importe de la operación menor a 100€ ❌
+404. CON permisos a la agenda del teléfono ❌
+405. VTPC1 que esté registrado en BIZUM ❌
+406. VTPC1 que esté registrado en el BIZUM ❌
+407. VTPC1 que esté registrado en el BIZUM ❌
+408. y no tener la firma enrolada. ❌
+409. Disponer de un usuario enrolado en BIZUM ❌
+410. El usuario debe tener contactos asociados a su número de teléfono. ❌
+411. Disponer de un usuario enrolado en BIZUM ❌
+412. que no tenga la cuenta Ahorro Sabadell ❌
+413. y un movimiento que se pueda ahorrar ❌
+414. y está dado de alta en bizum. ❌
+415. El usuario no debe disponer de tarjetas de crédito contratadas ❌
+416. No tenga el DNI actualizado. ❌
+417. La cuenta de que dispone debe de tener por lo menos un recibo pagado y que se haya solicitado su devolución recientemente. ❌
+418. La cuenta de que dispone debe de tener por lo menos un recibo pagado recientemente. ❌
+419. El usuario debe tener contrato de fondos activo. ❌
+420. El usuario debe haber realizado operaciones con los fondos que reflejen movimientos en estos. ❌
+421. El usuario debe tener contrato de fondos activo que no sea Garantizado (Prudente, Mixto, etc). ❌
+422. El usuario debe haber realizado operaciones con los fondos que reflejen movimientos en estos. ❌
+423. El usuario debe tener contrato de fondos activo. ❌
+424. El usuario debe haber realizado operaciones con los fondos que reflejen movimientos en estos. ❌
+425. El usuario debe tener contrato de fondos activo ❌
+426. y haber realizado operaciones con los fondos que reflejen movimientos en estos. ❌
+427. El usuario debe disponer de al menos un Fondo de Inversión activo. ❌
+428. El usuario debe tener un perfilado MIFID. ❌
+429. El usuario debe disponer de al menos dos Fondo de Inversión activos. ❌
+430. El usuario debe tener un perfilado MIFID. ❌
+431. SIN contrato de Autorenting ❌
+432. que sea de Gestión Activa ❌
+433. Al menos tenga una tarjeta asociada a una cuenta con movimientos. ❌
+434. Disponer de un contrato de Instant Money dado de alta para el usuario. ❌
+435. El usuario debe disponer de al menos una Línea Expansión activa ❌
+436. Saldo disponible a Amortizar ❌
+437. Disponga de una línea expansión en curso. ❌
+438. Disponer de saldo suficiente en la línea expansión para poder realizar la operación. ❌
+439. Disponer de un usuario autónomo con LIPO contratada y disposiciones realizadas con cuotas pendientes para realizar la amortización. ❌
+440. que tenga configurada un tipo de firma conjunta para poder realizar la operación ❌
+441. Disponer de la aplicación SIBIS para poder obtener la fecha de caducidad de la tarjeta ❌
+442. Disponer de la aplicación SIBIS para poder obtener la fecha de caducidad de la tarjeta ❌
+443. y en los movimientos de cuentas tenga liquidaciones de estas tarjetas ❌
+444. Por lo menos tenga una tarjeta asociada a una cuenta con movimientos. ❌
+445. La tarjeta tiene que ser con plástico activo. ❌
+446. La tarjeta seleccionada debe estar activada y con posibilidad de operar con ella. ❌
+447. Con Tarjetas Mixta de beneficiarios ❌
+448. que tenga una o varias tarjetas prepago asociadas ❌
+449. Este usuario debe disponer de una o más tarjetas prepago activas ❌
+450. Al menos una de ellas tenga saldo para poder traspasar ❌
+451. Con Tarjetas de beneficiarios ❌
+452. Al menos tenga una tarjeta asociada a una cuenta con movimientos. ❌
+453. La tarjeta seleccionada debe estar activada y con posibilidad de operar con ella. ❌
+454. que posea al menos un plan de ahorro activo sin aportación ❌
+455. También tiene que poseer una cuenta con saldo suficiente para hacer una aportación ❌
+456. que posea al menos un plan de ahorro activo sin aportación periódica. ❌
+457. También tiene que poseer como mínimo una cuenta con saldo positivo y suficiente para hacer aportaciones ❌
+458. El usuario debe disponer de al menos un plan de pensión dado de alta. ❌
+459. El plan no debe tener una aportación periódica previa. ❌
+460. El usuario debe disponer de al menos un plan de pensión dado de alta. ❌
+461. El plan no debe tener una aportación periódica previa. ❌
+462. El usuario debe disponer de planes de pensiones dados de alta. ❌
+463. El plan de pensiones no debe disponer de una aportación periódica previa. ❌
+464. El usuario debe disponer de al menos un plan de pensión dado de alta. ❌
+465. El usuario debe disponer de planes de pensiones dados de alta. ❌
+466. El usuario debe disponer de al menos un Plan de Previsión de Asegurados dados de alta. ❌
+467. El plan de previsión de asegurados no debe tener una aportación periódica previa. ❌
+468. El usuario debe disponer de al menos un plan de previsión de asegurado dado de alta. ❌
+469. El plan no debe tener una aportación periódica previa. ❌
+470. El usuario debe disponer de planes de previsión de asegurados dados de alta ❌
+471. y éste NO debe tener una aportación periódica previa. ❌
+472. El usuario debe disponer de al menos un plan de previsión asegurados dado de alta ❌
+473. con una aportación periódica dada de alta previamente. ❌
+474. El usuario debe disponer de al menos un plan de pensión dado de alta ❌
+475. con una aportación periódica dada de alta previamente. ❌
+476. que posea al menos un plan de ahorro activo ❌
+477. El usuario debe disponer de al menos un plan de pensión dado de alta ❌
+478. con una aportación periódica dada de alta previamente. ❌
+479. con más de un producto del mismo tipo contratado ❌
+480. un producto de Financiación ❌
+481. y un producto de Ahorro-Inversión. ❌
+482. Disponga de seguros dentro un Plan personalizado de protección ❌
+483. Tenga cuotas pagadas y cuotas por pagar. ❌
+484. -- ❌
+485. Pueda acceder como agente desde el acceso a empresas ❌
+486. El usuario Red de agente, debe poseer al menos un CCV en su contrato Empresa ❌
+487. El usuario Red de agente debe disponer de al menos un cliente con CCV contratadas ❌
+488. Disponer de un Usuario que disponga de al menos una cartera BSFGS como Particular ❌
+489. otra BSFGS como Empresa. ❌
+490. En el contrato de Particular y en el de Empresas debe tener marcada ver cuentas de Particulares/empresas respectivamente ❌
+491. Contrato confirmiline. ❌
+492. Dicho contrato tiene que tener saldo dispuesto (órdenes) ❌
+493. Disponga de PDFs cargados de estos movimientos ❌
+494. que disponga del check Norma 43 ❌
+495. El nombre de la empresa contenga guiones y apostrofes ❌
+496. Pueda acceder como agente desde el acceso a Empresas ❌
+497. Fichero en formato base de datos Banc Sabadell de adeudos directos sepa ❌
+498. Fichero en formato txt de confirming ❌
+499. Fichero en formato xml de transferencias ❌
+500. que posea cuenta con saldo ❌
+501. Disponer de acceso a UAT ❌
+502. Varios contratos o líneas de riesgo vigente ❌
+503. con al menos una línea que posea más de 20 movimientos. ❌
+504. que disponga de operaciones de transferencia nacional pedientes de firma ❌
+505. Destino fuera de ESP dentro de SEPA. ❌
+506. que dispongan de una cuenta en la cual el tipo de firma sea mancomunada con VTPC1 configurada ❌
+507. en la cual deban firmar los 2 intervinientes para finalizar la opeación ❌
+508. y la cuenta disponga de saldo para poder realizar la operación ❌
+509. Transferencia Urgente en EUR ❌
+510. La cuenta de origen ha de tener saldo al descubierto permitido ❌
+511. Disponga de al menos una cuenta bloqueada ❌
+512. que disponga de al menos una cuenta que tenga saldo ❌
+513. disponer de un IBAN de una cuenta que este cancelada ❌
+514. que disponga de alguna cuenta con fondos ❌
+515. Disponer de un Usuario que disponga de al menos una cartera BSFGS como Particular ❌
+516. otra BSFGS como Empresa. ❌
+517. En el contrato de Empresas NO debe tener marcada ver cuentas de Particulares ❌
+518. y en el de Particulares no debe tener marcada la opcion vert cuentas de Empresa ❌
+519. y sin contrato confirmiline. ❌
+520. Tenga más de un interviniente ❌
+521. que una de las cuentas tenga múltiples titulares ❌
+522. y otra cuenta tenga un solo titular ❌
+523. que una de las cuentas tenga múltiples titulares ❌
+524. y otra cuenta tenga un solo titular ❌
+525. Posea al menos una cuenta con balance negativo ❌
+526. Sea apoderado de una empresa ❌
+527. Sea apoderado de una empresa ❌
+528. Tarjeta Secundaria Empresa vinculada a cliente con contrato de autónomo con cuentas de titularidad física y finalidad particular ❌
+529. Descripción ❌
+530. Disponga de cuentas con finalidad particular y empresa ❌
+531. que tenga dada de alta más de una cuenta de depósito ❌
+532. que no disponga de recibos domiciliados cargados en cuenta ❌
+533. que disponga de recibos domiciliados cargados en cuenta ❌
+534. Disponer de un usuario autonomo o microempresa con una LIPO vigente sin deterioro, ni caducidad próxima y con disponible superior al mínimo de disposición sobre la que se haya realizado alguna disposición previa ❌
+535. Disponer de un usuario autónomo o microempresa con al menos una LIPO vigente cuyo importe disponible sea menor de 500 EUR ❌
+536. Disponer de un usuario autonomo o microempresa con una LIPO vigente sin deterioro, ni caducidad próxima y con disponible superior al mínimo de disposición ❌
+537. Al menos una línea de riesgo vigente que posea más de 20 movimientos. ❌
+538. que posea varios contratos Marco ❌
+539. y qie se haya conectado mas de una vez por algún canal ❌
+540. Sea apoderado de una empresa ❌
+541. con dos divisas ❌
+542. con firmas de fichero pendientes ❌
+543. con solo un contrato marco y firmas pendientes de operaciones ❌
+544. con préstamo preconcedido con un titular (bureau S) y una única cuenta. ❌
+545. con préstamo preconcedido con dos titulares (bureau N) y varias cuentas ❌
+546. Haber realizado transferencias ❌
+547. Tener Beneficiarios guardados ❌
+548. Pueda acceder como agente desde el acceso a empresas ❌
+549. El usuario Red de agente, NO debe poseer ninguna CCV en su contrato Empresa ❌
+550. El usuario Red de agente debe disponer de al menos un cliente con CCV contratadas ❌
+551. Debido a proyecto HDEV-408870, para que salte SCA es necesario que el usuario no sea de confianza para el dispositivo de prueba ❌
+552. y no disponga de tarjetas de crédito o débito de Banco Sabadell ❌
+553. y la fecha de caducidad del DNI no esté informada en SIBIS. ❌
+554. Notificaciones en el listado de notificaciones ❌
+555. que tenga el servicio de Notificaciones activado. ❌
+556. Disponer de mensajes en el buzón para poder visualizarlos ❌
+557. Disponer de un usuario enrolado en BIZUM ❌
+558. Disponer de un dispositivo que contenga un contacto con las siguiente características ❌
+559. Disponer de un usuario enrolado en BIZUM ❌
+560. El usuario debe tener contactos asociados a su número de teléfono. ❌
+561. El usuario debe tener saldo suficiente en la cuenta para realizar la operación. ❌
+562. Disponer de un usuario enrolado en BIZUM ❌
+563. Disponer un número de teléfono que no este asociado a bizum ❌
+564. Disponer de un usuario enrolado en BIZUM ❌
+565. y en el móvil ❌
+566. El usuario debe tener contactos asociados a su número de teléfono. ❌
+567. Disponer de un usuario enrolado en BIZUM ❌
+568. El usuario debe tener contactos asociados a su número de teléfono. ❌
+569. El usuario NO tiene dinero suficiente en la cuenta vinculada a BSW. ❌
+570. El usuario no debe estar asociado a Bizum ❌
+571. e importe de la operación menor a 100€ ❌
+572. CON permisos a la agenda del teléfono ❌
+573. VTPC1 que esté registrado en BIZUM ❌
+574. VTPC1 que esté registrado en el BIZUM ❌
+575. VTPC1 que esté registrado en el BIZUM ❌
+576. y no tener la firma enrolada. ❌
+577. Disponer de un usuario enrolado en BIZUM ❌
+578. El usuario debe tener contactos asociados a su número de teléfono. ❌
+579. Disponer de un usuario enrolado en BIZUM ❌
+580. que no tenga la cuenta Ahorro Sabadell ❌
+581. y un movimiento que se pueda ahorrar ❌
+582. y está dado de alta en bizum. ❌
+583. El usuario no debe disponer de tarjetas de crédito contratadas ❌
+584. No tenga el DNI actualizado. ❌
+585. La cuenta de que dispone debe de tener por lo menos un recibo pagado y que se haya solicitado su devolución recientemente. ❌
+586. La cuenta de que dispone debe de tener por lo menos un recibo pagado recientemente. ❌
+587. El usuario debe tener contrato de fondos activo. ❌
+588. El usuario debe haber realizado operaciones con los fondos que reflejen movimientos en estos. ❌
+589. El usuario debe tener contrato de fondos activo que no sea Garantizado (Prudente, Mixto, etc). ❌
+590. El usuario debe haber realizado operaciones con los fondos que reflejen movimientos en estos. ❌
+591. El usuario debe tener contrato de fondos activo. ❌
+592. El usuario debe haber realizado operaciones con los fondos que reflejen movimientos en estos. ❌
+593. El usuario debe tener contrato de fondos activo ❌
+594. y haber realizado operaciones con los fondos que reflejen movimientos en estos. ❌
+595. El usuario debe disponer de al menos un Fondo de Inversión activo. ❌
+596. El usuario debe tener un perfilado MIFID. ❌
+597. El usuario debe disponer de al menos dos Fondo de Inversión activos. ❌
+598. El usuario debe tener un perfilado MIFID. ❌
+599. SIN contrato de Autorenting ❌
+600. que sea de Gestión Activa ❌
+601. Al menos tenga una tarjeta asociada a una cuenta con movimientos. ❌
+602. Disponer de un contrato de Instant Money dado de alta para el usuario. ❌
+603. El usuario debe disponer de al menos una Línea Expansión activa ❌
+604. Saldo disponible a Amortizar ❌
+605. Disponga de una línea expansión en curso. ❌
+606. Disponer de saldo suficiente en la línea expansión para poder realizar la operación. ❌
+607. Disponer de un usuario autónomo con LIPO contratada y disposiciones realizadas con cuotas pendientes para realizar la amortización. ❌
+608. que tenga configurada un tipo de firma conjunta para poder realizar la operación ❌
+609. Disponer de la aplicación SIBIS para poder obtener la fecha de caducidad de la tarjeta ❌
+610. Disponer de la aplicación SIBIS para poder obtener la fecha de caducidad de la tarjeta ❌
+611. y en los movimientos de cuentas tenga liquidaciones de estas tarjetas ❌
+612. Por lo menos tenga una tarjeta asociada a una cuenta con movimientos. ❌
+613. La tarjeta tiene que ser con plástico activo. ❌
+614. La tarjeta seleccionada debe estar activada y con posibilidad de operar con ella. ❌
+615. Con Tarjetas Mixta de beneficiarios ❌
+616. que tenga una o varias tarjetas prepago asociadas ❌
+617. Este usuario debe disponer de una o más tarjetas prepago activas ❌
+618. Al menos una de ellas tenga saldo para poder traspasar ❌
+619. Con Tarjetas de beneficiarios ❌
+620. Al menos tenga una tarjeta asociada a una cuenta con movimientos. ❌
+621. La tarjeta seleccionada debe estar activada y con posibilidad de operar con ella. ❌
+622. que posea al menos un plan de ahorro activo sin aportación ❌
+623. También tiene que poseer una cuenta con saldo suficiente para hacer una aportación ❌
+624. que posea al menos un plan de ahorro activo sin aportación periódica. ❌
+625. También tiene que poseer como mínimo una cuenta con saldo positivo y suficiente para hacer aportaciones ❌
+626. El usuario debe disponer de al menos un plan de pensión dado de alta. ❌
+627. El plan no debe tener una aportación periódica previa. ❌
+628. El usuario debe disponer de al menos un plan de pensión dado de alta. ❌
+629. El plan no debe tener una aportación periódica previa. ❌
+630. El usuario debe disponer de planes de pensiones dados de alta. ❌
+631. El plan de pensiones no debe disponer de una aportación periódica previa. ❌
+632. El usuario debe disponer de al menos un plan de pensión dado de alta. ❌
+633. El usuario debe disponer de planes de pensiones dados de alta. ❌
+634. El usuario debe disponer de al menos un Plan de Previsión de Asegurados dados de alta. ❌
+635. El plan de previsión de asegurados no debe tener una aportación periódica previa. ❌
+636. El usuario debe disponer de al menos un plan de previsión de asegurado dado de alta. ❌
+637. El plan no debe tener una aportación periódica previa. ❌
+638. El usuario debe disponer de planes de previsión de asegurados dados de alta ❌
+639. y éste NO debe tener una aportación periódica previa. ❌
+640. El usuario debe disponer de al menos un plan de previsión asegurados dado de alta ❌
+641. con una aportación periódica dada de alta previamente. ❌
+642. El usuario debe disponer de al menos un plan de pensión dado de alta ❌
+643. con una aportación periódica dada de alta previamente. ❌
+644. que posea al menos un plan de ahorro activo ❌
+645. El usuario debe disponer de al menos un plan de pensión dado de alta ❌
+646. con una aportación periódica dada de alta previamente. ❌
+647. con más de un producto del mismo tipo contratado ❌
+648. un producto de Financiación ❌
+649. y un producto de Ahorro-Inversión. ❌
+650. Disponga de seguros dentro un Plan personalizado de protección ❌
+651. Tenga cuotas pagadas y cuotas por pagar. ❌
+652. que posea cuotas pagadas y cuotas por pagar. ❌
+653. que disponga de transferencias Internacionales efectuadas para poderlas anular ❌
+654. que disponga de transferencias Internacionales efectuadas para poderlas anular ❌
+655. que disponga de transferencias efectuadas para poderlas anular ❌
+656. que disponga de transferencias efectuadas para poderlas anular ❌
+657. De un beneficiario dado de alta para transferencias Internacionales ❌
+658. De un beneficiario dado de alta para transferencias nacionales ❌
+659. De un beneficiario dado de alta para Transferencia Nacionales ❌
+660. que dispongan de una cuenta en la cual el tipo de firma sea mancomunada con VTPC1 configurada ❌
+661. en la cual deban firmar los 2 intervinientes para finalizar la operación ❌
+662. y la cuenta disponga de saldo para poder realizar la operación ❌
+663. que dispongan de una cuenta en la cual el tipo de firma sea mancomunada con firma Especial con VTPC1 configurada ❌
+664. en la cual deban firmar los 2 intervinientes para finalizar la operación ❌
+665. y la cuenta disponga de saldo para poder realizar la operación ❌
+666. que tenga cuenta con Saldo Suficiente. ❌
+667. Disponer de dispositivo con cuenta gmail vinculada. ❌
+668. que disponga de al menos una cuenta con saldo ❌
+669. que disponga de al menos una cuenta en la que haya configurada un tipo de firma Especial cón fórmula de firma en la cual se necesiten los dos titulares para firmar ❌
+670. que disponga de al menos una cuenta que tenga saldo ❌
+671. disponer de un IBAN de una cuenta que este cancelada ❌
+672. que disponga de al menos una cuenta que tenga saldo ❌
+673. disponer de un IBAN de una cuenta que este cancelada ❌
+674. el cual haya hecho una transferencia nacional con éxito ❌
+675. el cual haya hecho una transferencia nacional con éxito ❌
+676. que al menos disponga de una cuenta con saldo suficiente para poder realizar una transferencia urgente ❌
+677. que disponga de al menos una cuenta con fondos ❌
+678. con saldo ❌
+679. y sin trabas ❌
+680. con cuenta de valores ❌
+681. que tenga órdenes en curso, pendientes y finalizadas. ❌
+682. El usuario no registrado en Bizum ❌
+683. y dado de alta en bizum. ❌
+684. Disponer de un usuario enrolado en BIZUM ❌
+685. Disponer de cuenta asociada a bizum ❌
+686. y otras divisas con al menos una de ellas con movimientos ❌
+687. Disponga de fondos internacionales de inversión de particulares ya dados de alta ❌
+688. que este bloqueado por PIN ❌
+689. Con Tarjetas Crédito de beneficiarios ❌
+690. Disponer de un usuario autónomo que no tenga cuentas o cuentas no válidas. ❌
+691. Debido a proyecto HDEV-408870, para que salte SCA es necesario que el usuario no sea de confianza para el dispositivo de prueba ❌
+692. Debido a proyecto HDEV-408870, para que salte SCA es necesario que el usuario no sea de confianza para el dispositivo de prueba ❌
+693. No tenga el Push activo ❌
+694. Disponga de Push activo en el dispositivo ❌
+695. y/o productos de inversión (Valores) ❌
+696. Disponga de Push activo en el dispositivo ❌
+697. y cuentas de valores para inversión ❌
+698. Disponga de la nueva gestión de alertas ❌
+699. Disponer de un usuario que no este asociado a bizum ❌
+700. Disponer de cuenta asociada a bizum ❌
+701. y dispositivo no enrolado ❌
+702. dado de alta y que tenga una clave de acceso (PIN) de 4 dígitos ❌
+703. Nota: Se puede usar los últimos códigos utilizados con anterioridad ❌
+704. Nota: Se puede usar los últimos códigos utilizados con anterioridad ❌
+705. que disponga de notificaciones de documentos destacados pendientes de leer ❌
+706. este usuario debe estar pilotado ❌
+707. Tener un usuario de tipo Particular con firmas pendientes ❌
+708. Alguna documentación destacada ❌
+709. que disponga de documentos documentos que este pilotado ❌
+710. Con una cuenta Base Expansión único titular ❌
+711. Hijo mayor de edad NO incapacitado con cuenta base como autorizado ❌
+712. y validaciones INTE ok ❌
+713. y otras divisas ❌
+714. que disponga al menos una cuenta con saldo retenido ❌
+715. El indicador "canSplit" activado tendrá la opción de dividir el movimiento ❌
+716. y movimientos con menos de 3 acciones disponibles ❌
+717. y otro movimiento con al menos 5 acciones disponibles ❌
+718. Descripcion: Esta prueba verifica el comportamiento del buscador semántico ❌
+719. Con Ahorro Expansión con rutina periódica activa ❌
+720. con una Ahorro Expansión dada de alta en una oficina ACC ❌
+721. Móvil con BS instalado ❌
+722. Tenga cuentas con saldo positivo y negativo ❌
+723. pero el total sea positivo ❌
+724. Haya respondido al consentimiento de recepción de información comercial ❌
+725. Sea usuario objetivo ❌
+726. NOTA: Usuario objetivo: ❌
+727. Enrolar el dispositivo ❌
+728. que disponga de depósitos concedidos ❌
+729. que disponga de depósitos concedidos ❌
+730. El usuario debe disponer de depósitos concedidos ❌
+731. que disponga de depósitos concedidos ❌
+732. y sin ARP válido ❌
+733. que sea de Gestión Activa ❌
+734. El gestor debe estar disponible ❌
+735. No sea usuario de Gestión Activa ❌
+736. Disponer de un contrato de Instant Money dado de alta para el usuario ❌
+737. Disponer de un usuario enrolado en BIZUM y en el móvil ❌
+738. una de ellas pediente de activar ❌
+739. con saldo suficiente para poder realizar la operación ❌
+740. con una LIPO vigente sin deterioro,ni caducidad próxima ❌
+741. Disponible superior al mínimo de disposición sobre la que se haya realizado alguna disposición previa ❌
+742. con varias LIPOs ❌
+743. y al menos una vigente sin deterioro, ni caducidad próxima ❌
+744. Disponible superior al mínimo de disposición ❌
+745. con al menos una LIPO vigente ❌
+746. con al menos una LIPO vigente cuyo importe disponible sea menor de 500 EUR ❌
+747. o, de forma alternativa, con LIPO caducada ❌
+748. con una LIPO vigente sin deterioro, ni caducidad próxima ❌
+749. Disponible superior al mínimo de disposición ❌
+750. con una LIPO vigente sin deterioro, ni caducidad próxima ❌
+751. Disponible superior al mínimo de disposición ❌
+752. Disponga de mas de un contrato Marco ❌
+753. Disponer de la aplicación recién instalada o con los datos de la aplicación borrados correctamente ❌
+754. y ya haya accedido al dispositivo de prueba ❌
+755. Disponer de transferencia nacional pendientes de firma ❌
+756. Disponer de transferencia nacional pendientes de firma ❌
+757. Con Tarjetas de beneficiarios pendientes de activar ❌
+758. pero ingresando desde la banca distancia del Titular de la cuenta de la misma ❌
+759. Con Tarjetas de beneficiarios ❌
+760. pero ingresando desde la banca distancia del Titular de la cuenta de la misma ❌
+761. La tarjeta tiene que ser con plástico activo ❌
+762. La tarjeta tiene que ser con plástico activo ❌
+763. Con Tarjetas Crédito de beneficiarios ❌
+764. y movimientos fraccionables ❌
+765. Con Tarjetas Débito de beneficiarios ❌
+766. Tarjetas de beneficiarios ❌
+767. Descripción Esta prueba verifica que para Empresas se muestra la operativa antigua ❌
+768. Con Tarjetas de beneficiarios ❌
+769. pero ingresando desde la banca distancia del titular del contrato de la misma ❌
+770. Tenga una o varias Tarjetas Repsol ❌
+771. Tenga una o varias Tarjetas Repsol ❌
+772. Con al menos una Tarjeta Mixta de la cual sea beneficiario ❌
+773. que posea al menos un plan de ahorro activo con aportación periódica activada ❌
+774. que posea al menos un plan de ahorro activo ❌
+775. Contratado el nuevo plan de ahorro (SG 21035) ❌
+776. Contratado el nuevo plan de ahorro (SG 21035) ❌
+777. Contratado al menos un producto antiguo de ahorro (trimestral o semestral) ❌
+778. Disponga de planes de ahorro contratados ❌
+779. con firmas pendientes ❌
+780. con más de 1 card de Ahorro/Inversión ❌
+781. con más de 1 card de financiación ❌
+782. El usuario debe disponer de registros consultables en consulta de domiciliaciones ❌
+783. El usuario debe disponer de préstamos concedidos ❌
+784. El usuario debe disponer de préstamos concedidos activos ❌
+785. que disponga de préstamo preconcedidos con intervinientes 1 ❌
+786. que disponga de préstamo preconcedidos microempresa ❌
+787. Disponga de hipotecas contratadas ❌
+788. Disponga de un preco contratado ❌
+789. que disponga de un plan personalizado de protección contratado ❌
+790. que disponga de un plan personalizado de protección contratado ❌
+791. Por categoría de negocio disponga de dos o más seguros ❌
+792. que disponga de más de un plan personalizado de protección contratado ❌
+793. que no disponga de Plan personalizado de protección ❌
+794. pero disponga de seguros susceptibles al PPP ❌
+795. que disponga de un plan personalizado de protección contratado ❌
+796. Por categoría de negocio disponga de dos o más seguros ❌
+797. que disponga de un Plan personalizado de protección ❌
+798. que disponga de un plan personalizado de protección contratado ❌
+799. Por categoría de negocio disponga de seguros ❌
+800. que disponga de un Plan Personalizado de Protección contratado ❌
+801. No posean liquidaciones ❌
+802. Tengan las tarjetas asociadas a la misma cuenta ❌
+803. Tener una tarjeta de débito apagada ❌
+804. y acceder a ella con el usuario que no es el titular ❌
+805. con importes ya fraccionados ❌
+806. que posea cuotas pagadas ❌
+807. No tenga cuotas por pagar ❌
+808. Con Tarjetas de beneficiarios Crédito ❌
+809. que tenga una cuenta bloqueada ❌
+810. que disponga de al menos una cuenta bloqueada ❌
+811. que disponga de al menos una cuenta bloqueada ❌
+812. que disponga de Beneficiarios guardados ❌
+813. que disponga de Beneficiarios guardados ❌
+814. con cuenta de valores ❌
+815. con cuenta de valores ❌
+816. que tenga cuenta de valores con posiciones ❌
+817. que tenga cuenta de valores y movimientos ❌
+818. que tenga cuenta de valores y movimientos ❌
+819. que tenga órdenes en curso, pendientes y finalizadas ❌
+820. que cuenta de valores ❌
+821. que tenga cuenta de valores con posiciones en EUR y divisa distinta a EUR ❌
+822. que tenga cuenta de valores ❌
+823. El usuario debe disponer de al menos una Cuenta de Valores (CCV) con al menos una acción comprada con anterioridad ❌
+824. Disponer de cuenta de valores ❌
+825. Cumpla con los requisitos para poder operar dentro del mercado de Valores ❌
+826. El usuario debe disponer de más de una Cuenta de Valores (CCV) ❌
+827. Disponga de valores contratados ❌
+828. Usuario particular con BDIS con solicitudes de documentos pendientes ❌
+829. que tenga documentos pendientes de firmar como por ejemplo el Alta de una cuenta ❌
+830. disponer de un usuario asociado a un colectivo ❌
+831. que tenga Scoring y pueda solicitar nueva tarjeta por el flujo de Instant Selling ❌
+832. que no tenga scoring ❌
+833. No sea cliente onbording ❌
+834. que tenga un scoring igual o superior a 4300 y pueda solicitar nueva tarjeta por el flujo de Instant Selling ❌
+835. que no tenga Scoring ❌
+836. y de tipo onboarding ❌
+837. que tenga Scoring y pueda solicitar nuevas tarjetas por el flujo de Instant Selling ❌
+838. que no tenga Scoring ❌
+839. y de tipo onboarding ❌
+840. que a su vez disponga de una tarjeta secundaria ❌
+841. que disponga de documentos documentos ❌
+842. Tener un usuario particular con un documento "destacado" no leído ❌
+843. y uno "no destacado" leído ❌
+844. Tener un usuario particular con un documento destacado leído ❌
+845. Tener un usuario particular con un documento destacado no leído ❌
+846. Con una cuenta Base Expansión único titular ❌
+847. Haya entrado al menos una vez en el BS Online ❌
+848. disponer de imágenes superiores a 50 MB para poder realizar la prueba ❌
+849. No tenga el NIE actualizado ❌
+850. Cargar en el entorno de Citrix sendas fotografías de buena calidad del anverso y el reverso del DNI que se vaya a utilizar para la prueba ❌
+851. y sin ARP válido ❌
+852. ARP válido ❌
+853. ARP válido ❌
+854. LI contratada (cuenta de depósitos) ❌
+855. con clúster 04 en SIBIS ❌
+856. con ARP válido ❌
+857. que disponga de movimientos de recibo con devolver ❌
+858. que disponga de una cuenta de valores ❌
+859. Permisos de actuar ❌
+860. Usuario sin TC ❌
+861. que disponga de una cuenta de valores ❌
+862. Permisos de actuar ❌
+863. Usuario con TC no conveniente de la empresa ❌
+864. que disponga de una cuenta de valores ❌
+865. Permisos de actuar ❌
+866. El usuario debe disponer del TC firmado como no conveniente ❌
+867. que disponga de una cuenta de valores ❌
+868. Permisos de actuar ❌
+869. Usuario con TC no conveniente ❌
+870. que disponga de una cuenta de valores ❌
+871. Permisos de actuar ❌
+872. Usuario con TC conveniente de la empresa ❌
+873. que disponga de una cuenta de valores ❌
+874. Permisos de actuar ❌
+875. El usuario debe disponer del TC firmado como conveniente ❌
+876. que disponga de una cuenta de valores ❌
+877. Permisos de actuar ❌
+878. Usuario sin TC de la empresa ❌
+879. que disponga de una cuenta de valores ❌
+880. Permisos de actuar ❌
+881. El usuario no debe disponer del TC firmado ❌
+882. que disponga de una cuenta de valores ❌
+883. Permisos de actuar ❌
+884. Usuario con TC conveniente ❌
+885. Disponer del código ISIN de un fondo de una entidad externa ❌
+886. Contenga un contrato de fondos que este asesorado ❌
+887. Contenga un contrato de fondos que este asesorado ❌
+888. El usuario debe tener contrato de fondos activo ❌
+889. El usuario debe haber realizado operaciones con los fondos que reflejen movimientos en estos ❌
+890. No debe mostrarse la opción de selección de cobro de comisiones ❌
+891. que tenga dado de alta un contrato de Fondos de inversión (sin cartera asesorada) ❌
+892. Gestor asignado ❌
+893. El servicio Rightsizing debe estar disponible ❌
+894. Este clasificado con un perfil Mayorista, Minorista, profesional o contraparte ❌
+895. que este enrolado en Bizum ❌
+896. Haya realizado una solicitud de dinero ❌
+897. tiene que estar enrolado con un dispositivo ❌
+898. El usuario debe tener diversas Acciones Pendientes ❌
+899. y este inscrito en otra entidad en el servicio de Pagos inmediatos ❌
+900. tiene que estar enrolado con un dispositivo ❌
+901. tiene que estar enrolado con un dispositivo ❌
+902. Usuario debe de haber realizado 2 envíos de 1000 euros durante el día ❌
+903. tiene que estar enrolado con un dispositivo ❌
+904. El usuario debe haber entrado alguna vez a la opción de Bizum ❌
+905. y debe tener una solicitud de pago en el listado de movimientos para poder devolverlo ❌
+906. tiene que estar enrolado con un dispositivo ❌
+907. El usuario debe haber entrado alguna vez a la opción de pagos inmediatos ❌
+908. y debe tener una solicitud de pago en el listado de movimientos para poder devolverlo ❌
+909. El usuario no debe de tener el servicio de BIzum en nuestra entidad ni en ajenas ❌
+910. tiene que estar enrolado con un dispositivo ❌
+911. El usuario debe haber entrado alguna vez a la opción de Bizum ❌
+912. tiene que estar enrolado con un dispositivo ❌
+913. tiene que estar enrolado con un dispositivo ❌
+914. El usuario debe haber entrado alguna vez a la opción de pagos inmediatos ❌
+915. Disponer de saldo suficiente en la línea expansión para poder realizar la operación ❌
+916. que se le haya reeimprimido el PIN desde SIBIS para poder simular Login por primera conexión ❌
+917. que no se conecte desde hace 90 dias ❌
+918. y de su clave de acceso ❌
+919. que disponga de un usuario consultivo dado de alta ❌
+920. con almenos un IBAN ❌
+921. y la fecha de caducidad del DNI no esté informada en SIBIS ❌
+922. y al menos un préstamo contratado ❌
+923. y al menos un contrato de fondos de inversión ❌
+924. que tenga un plan de ahorro contratado sin aportación periódica configurada ❌
+925. que tenga un plan de ahorro contratado sin aportación periódica configurada ❌
+926. Tenga al menos un plan de ahorro contratado ❌
+927. con aportación periódica activa configurada ❌
+928. Planes de pensiones de autónomos contratados ❌
+929. que disponga de préstamo preconcedidos con intervinientes 1 ❌
+930. y un bureaux = S ❌
+931. que disponga de préstamo preconcedidos con intervinientes 1 ❌
+932. y un bureaux = S ❌
+933. que disponga de préstamo preconcedidos con intervinientes 1 ❌
+934. y un bureaux = S ❌
+935. que disponga de préstamo preconcedidos con intervinientes +1 ❌
+936. y un bureaux = S ❌
+937. El usuario debe disponer de prestamos concedidos ❌
+938. que disponga de préstamo preconcedidos con intervinientes 1 ❌
+939. y un bureaux = N ❌
+940. Y No haber realizado una solicitud con el usuario desde hace 48h ❌
+941. que disponga de préstamo preconcedidos con intervinientes +1 ❌
+942. y un bureaux = N ❌
+943. Y No haber realizado una solicitud con el usuario desde hace 48 ❌
+944. que disponga de préstamo preconcedidos con intervinientes 1 ❌
+945. El usuario debe disponer de prestamos hipotecarios incorporados ❌
+946. y Préstamo Sabadell preconcedido ❌
+947. con préstamo preconcedido Bureaux S ❌
+948. con un SCL (vinculado a un titular) ❌
+949. con préstamo preconcedido Bureaux S ❌
+950. con un SCL (vinculado a un titular) ❌
+951. con préstamo preconcedido Bureaux S ❌
+952. con un SCL (unitularidad) ❌
+953. Usuario con contrato de banca distancia autónomo (empresas) y particulares ❌
+954. préstamo preconcedido Bureaux S ❌
+955. con 2 titulares ❌
+956. El usuario debe ser unico titular con Bureaux E ❌
+957. y completar el proceso de firma obtener la pantalla de resultado OK ❌
+958. La tarjeta tiene que tener marcado el TIPO DE ENVIO como Envío por correo a domicilio ❌
+959. Se tiene que haber impreso la documentación de la tarjeta ❌
+960. La tarjeta tiene que tener marcado el TIPO DE ENVIO como Envío por correo a domicilio ❌
+961. La tarjeta tiene que tener impreso la documentación de la tarjeta ❌
+962. disponer de un identificador único por tarjeta/cliente para poder realizar la consulta ❌
+963. De la cuenta que se utilice sea autorizado ❌
+964. disponer de un numero de Tarjeta extranjera con su correspondiente fecha de caducidad ❌
+965. disponer de los servicios de redsys activos para poder ejecutar las pruebas ❌
+966. disponer de un numero de Tarjeta extranjera con su correspondiente fecha de caducidad ❌
+967. disponer de los servicios de redsys activos para poder ejecutar las pruebas ❌
+968. disponer de un numero de Tarjeta extranjera con su correspondiente fecha de caducidad ❌
+969. disponer de los servicios de redsys activos para poder ejecutar las pruebas ❌
+970. El usuario debe tener un limite de compras superior a 10k ❌
+971. Un límite diario de cajero superior a 1000 ❌
+972. La opción "Compras en internet" activada ❌
+973. Con Tarjetas de beneficiarios pero ingresando desde la banca distancia del Titular de la cuenta de la misma ❌
+974. El usuario debe tener configurado el tipo de envio de tarjetas como "Oficina" (con cuenta de firma conjunta) ❌
+975. Con Tarjetas de beneficiarios pero ingresando desde la banca distancia del Titular de la cuenta de la misma ❌
+976. La tarjeta debe ser con tipo de envio a oficina (con cuenta de firma conjunta) ❌
+977. Tener un beneficiario creado desde Gestión de beneficiarios ❌
+978. Este beneficiario deberá tener informado el campo nombre, con un valor de 33 caracteres o menos ❌
+979. Sea accionista para poder realizar la operativa ❌
+980. esta prueba solo se podrá ejecutar en periodos que este abierto el plazo para la delegación de voto ❌
+981. que disponga de al menos una cuenta de valores y disponga de al menos cuenta vista asociada ❌
+982. Cumpla con los requisitos para poder operar dentro del mercado de Valores ❌
+983. Debe disponer de valores con títulos ya comprados en mercado nacional y que se encuentren disponibles para la venta ❌
+984. El usuario debe disponer de al menos una Cuenta de Valores (CCV) operativa y activa ❌
+985. y cumplir con los requisitos para poder operar dentro del mercado de Valores ❌
+986. La CCV debe tener al menos una Cuenta Corriente (CCC) asociada con saldo disponible suficiente ❌
+987. (No pueden ser de firma conjunta, o de un tipo de producto que no se pueda asociar a un contrato de valores, o tratarse de un ordenante que sea menor/no-residente español/discapacitado/autorizado/etc.) ❌
+988. El usuario Red de agente, NO debe poseer ninguna CCV en su contrato Particular ❌
+989. El usuario Red de agente debe disponer de al menos un cliente con CCV contratadas ❌
+990. que disponga de contrato de valores con acciones ❌
+991. que disponga de contrato de valores y de movimientos y órdenes en divisa euro y diferente a euro ❌
+992. que disponga de contrato de valores y de movimientos y ordenes en divisa euro y diferente a euro ❌
+993. que disponga de contrato de valores y de movimientos y ordenes en divisa euro y diferente a euro ❌
+994. disponga de órdenes pendientes y ordenes ejecutadas ❌
+995. que disponga de contrato de valores y de movimientos y órdenes en divisa euro y diferente a euro ❌
+996. disponga de órdenes pendientes, órdenes ejecutadas y finalizadas ❌
+997. que disponga de contrato de valores y de movimientos y órdenes en divisa euro y diferente a euro ❌
+998. disponga de órdenes pendientes, órdenes ejecutadas y finalizadas ❌
+999. Sea usuario registrado de BS Análisis (ie: con cuenta de valores y correo elecctrónico) ❌
+1000. que disponga de contrato de valores con acciones ❌
+1001. que disponga de contrato de valores y de movimientos y órdenes en divisa Euro y diferente a Euro ❌
+1002. disponga de órdenes pendientes y órdenes ejecutadas ❌
+1003. El usuario debe cumplir los requisitos para la contratación de Productos como Cuentas de Valores (No pueden ser de firma conjunta, o de un tipo de producto que no se pueda asociar a un contrato de valores, o tratarse de un ordenante que sea menor/no-residente español/discapacitado/autorizado/etc.) ❌
+1004. que disponga de al menos una cuenta de valores de tipo estándar ❌
+1005. Posición para poder dar respuesta al dividendo flexible en vigor ❌
+1006. que disponga de al menos una cuenta de valores de tipo estándar ❌
+1007. Posición para poder dar respuesta a la ampliación de capital non liberada en vigor ❌
+1008. que disponga de un contrato de valores para poder realizar operaciones ❌
+1009. Dado de alta un usurio consultivo de particulares ❌
+1010. que disponga de un contrato de valores para poder realizar operaciones de compra/venta ❌
+1011. Dado de alta un usurio consultivo de particulares ❌
+1012. que tenga órdenes en curso, pendientes y finalizadas y movimientos ❌
+1013. El usuario debe disponer de una única Cuenta de Valores (CCV) con al menos un valor comprado anteriormente y que cumpla con los requisitos para poder operar dentro del mercado de valores ❌
+1014. La CCV debe tener una única Cuenta Corriente (CCC) asociada con saldo disponible suficiente y que no firme conjuntamente ❌
+1015. (No pueden ser de firma conjunta, o de un tipo de producto que no se pueda asociar a un contrato de valores, o tratarse de un ordenante que sea menor/no-residente español/discapacitado/autorizado/etc.) ❌
+1016. El usuario debe disponer de más de una Cuenta de Valores (CCV) con el mismo valor comprado anteriormente en varias CCV y que cumpla con los requisitos para poder operar dentro del mercado de valores ❌
+1017. La(s) CCV(s) debe tener una única Cuenta Corriente (CCC) asociada con saldo disponible suficiente y que no firme conjuntamente ❌
+1018. (No pueden ser de firma conjunta, o de un tipo de producto que no se pueda asociar a un contrato de valores, o tratarse de un ordenante que sea menor/no-residente español/discapacitado/autorizado/etc.) ❌
+1019. Disponer de cuenta de valores ❌
+1020. con cuenta de valores ❌
+1021. y test de conveniencia con resultado Conveniente ❌
+1022. e intención de compra de activo ETF con doc KID vinculado ❌
+1023. con cuenta de valores ❌
+1024. y test de conveniencia con resultado NO Conveniente ❌
+1025. e intención de compra de activo ETF con doc KID vinculado ❌
+1026. con cuenta de valores ❌
+1027. y test de conveniencia NO COMPLETADO ❌
+1028. e intención de compra de activo ETF con doc KID vinculado ❌
+1029. con cuenta de valores ❌
+1030. e intención de compra de activo ETF con doc KID vinculado ❌
+1031. con cuenta de valores ❌
+1032. y test de conveniencia Conveniente ❌
+1033. e intención de compra de activo ETF sin doc KID vinculado ❌
+1034. con cuenta de valores ❌
+1035. y test de conveniencia No Conveniente ❌
+1036. e intención de compra de activo ETF sin doc KID vinculado ❌
+1037. con cuenta de valores ❌
+1038. y test de conveniencia No Completado ❌
+1039. e intención de compra de activo ETF sin doc KID vinculado ❌
+1040. con cuenta de valores ❌
+1041. e intención de compra de activo ETF SIN doc KID vinculado ❌
+1042. y Bizum ❌
+1043. y pagos CES pendientes ❌
+1044. Usuario con más de un titular ❌
+1045. con préstamo preconcedido Bureaux N ❌
+1046. con un SCL ❌
+1047. Y uno de ellos rechaza la firma ❌
+1048. con solicitudes de documentos pendientes ❌
+1049. sin solicitudes de documentos pendientes ❌
+1050. que disponga de al menos una cuenta bloqueada ❌
+1051. que dispongan de una cuenta en la cual el tipo de firma sea mancomunada con VTPC2 configurada ❌
+1052. en la cual deban firmar los 2 intervinientes para finalizar la opeación ❌
+1053. y sea empleado ❌
+1054. y sea empleado ❌
+1055. Pueda realizar al menos una transferencia para superar el limite máximo diario ❌
+1056. para poder consultar el limite debemos ir a la opción Consulta de límites operativos columna indis.diario ❌
+1057. y disponer de una cuenta del grupo para poder hacer una trasnferencia en Divisa ❌
+1058. que dispongan de una cuenta en la cual el tipo de firma sea mancomunada con firma Especial con VTPC2 configurada ❌
+1059. en la cual deban firmar los 2 intervinientes para finalizar la opeación ❌
+1060. que tenga documentos pendientes de firmar como por ejemplo el alta de un depósito referenciado ❌
+1061. con varias cuentas con documentos pendientes de subir en mas de una cuenta ❌
+1062. y pueda solicitar nueva tarjeta por el flujo de Instant Selling ❌
+1063. que tenga Scoring ❌
+1064. y pueda solicitar nuevas tarjetas por el flujo de Instant Selling ❌
+1065. Disponer de un usuario autónomo que no tenga cuentas o cuentas no válidas ❌
+1066. y pueda solicitar nueva tarjeta por el flujo de Instant Selling ❌
+1067. que tenga Scoring ❌
+1068. y pueda solicitar nuevas tarjetas por el flujo de Instant Selling ❌
+1069. que no tenga scoring ❌
+1070. No sea cliente onbording ❌
+1071. que no tenga scoring ❌
+1072. No sea cliente onbording ❌
+1073. que tenga Scoring ❌
+1074. y pueda solicitar nueva tarjeta por el flujo de Instant Selling ❌
+1075. Disponer de un Usuario que disponga de al menos una cartera GCM como Particular y otra GCM como Empresa ❌
+1076. En el contrato de Particular y en el de Empresas debe tener marcada ver cuentas de Particulares/empresas respectivamente ❌
+1077. Disponer de un Usuario que disponga de al menos una cartera GCM como Particular y otra GCM como Empresa ❌
+1078. En el contrato de Empresas NO debe tener marcada ver cuentas de Particulares y en el de Particulares no debe tener marcada la opcion vert cuentas de Empresa ❌
+1079. Usuario BS EMP con contrato de riesgo ❌
+1080. Disponga de un PIN de 4 posiciones para entrar en la aplicación ❌
+1081. Disponga de un PIN de 4 posiciones para entrar en la aplicación ❌
+1082. Disponga de PDFs cargados de estos movimientos (para ello debemos contactar con Jorge Mendez; enviarle un email (MENDEZJO@sabis.tech) indicando usuario, cuenta y el movimiento cuyo pdf necesitamos cargar) ❌
+1083. que no disponga del check Norma 43 ❌
+1084. Disponga de diversas cuentas y alguna de estas marcada a SIN ACCESO ❌
+1085. con órdenes de débito ❌
+1086. que disponga de una cuenta de valores ❌
+1087. Permisos de actuar ❌
+1088. Usuario de Empresas/Autónomo - titular ❌
+1089. Ficheros de transferencias SEPA nacional en formato txt 34.14 ❌
+1090. NOTA: Según HUAT-76636, para que aparezca el link de descarga de justificante, es necesario que el fichero haya sido firmado por todas las personas que tengan que firmar el envío ❌
+1091. de operativa Confirming ❌
+1092. Disponer de fichero de Confirming Global para anular ❌
+1093. de operativa Confirming ❌
+1094. Disponer de fichero de Confirming Standar para anular ❌
+1095. que disponga de un contrato de fondos de inversión ❌
+1096. Sea un cliente que sea asesorado ❌
+1097. Contenga un contrato de fondos que este asesorado ❌
+1098. que tenga dado de alta un contrato de Fondos de inversión ❌
+1099. que disponga de un contrato de fondos de inversión ❌
+1100. Sea un cliente que no este asesorada ❌
+1101. Disponga de fondos de inversión de empresa ya dados de alta ❌
+1102. Disponga de cuenta de efectivo disponible y acceso al servicio de Sabadell forex ❌
+1103. Disponga de cuenta de efectivo disponible y acceso al servicio de Sabadell forex ❌
+1104. Disponga de cuenta de efectivo disponible y acceso al servicio de Sabadell forex ❌
+1105. Disponer de acceso a UAT ❌
+1106. que se le haya reeimprimido el PIN desde SIBIS para poder simular Login por primera conexión ❌
+1107. que se le haya reeimprimido el PIN desde SIBIS para poder simular Login por primera conexión ❌
+1108. Disponer de un usuario autonomo con una LIPO vigente sin deterioro, ni caducidad próxima y con disponible superior al mínimo de disposición ❌
+1109. Disponer de un usuario autonomo con varias LIPOs y al menos una vigente sin deterioro, ni caducidad próxima y con disponible superior al mínimo de disposición ❌
+1110. Disponer de un usuario autonomo con varias LIPOs y al menos una vigente sin deterioro, ni caducidad próxima y con disponible superior al mínimo de disposición ❌
+1111. Disponer de un usuario autonomo con varias LIPOs y al menos una vigente sin deterioro, ni caducidad próxima y con disponible superior al mínimo de disposición ❌
+1112. Disponer de un usuario autónomo con LIPO contratada y disposiciones realizadas con cuotas pendientes para realizar la amortización ❌
+1113. Disponga de un usuario consultivo vigente ❌
+1114. que disponga de préstamo preconcedidos microempresa ❌
+1115. El usuario debe disponer de prestamos incorporados con destino profesional donde conste como autorizado ❌
+1116. con préstamo preconcedido con único titular (bureau S) ❌
+1117. con préstamo preconcedido con único titular (bureau S) ❌
+1118. con préstamo preconcedido con dos titulares (bureau S) ❌
+1119. con varios préstamos preconcedido (bureau S ? un préstamo con un titular y otro préstamo con varios titulares) ❌
+1120. y no debe de tener ningun TPV contratado ❌
+1121. y disponer de una cuenta del grupo en Divisa y otra en Euro ❌
+1122. Nota: Consulta el texto descargado en español ❌
+1123. Disponer de un usuario consultivo con una cuenta con dinero que pueda realizar transferencias nacionales Grupo BS ❌
+1124. Disponer de un usuario consultivo con una cuenta con dinero que pueda realizar transferencias internacionales ❌
+1125. Disponer también del usuario empresa original perteneciente al usuario consultivo ❌
+1126. Disponer de un usuario consultivo con una cuenta con dinero que pueda realizar transferencias nacionales Grupo BS ❌
+1127. Disponer también del usuario empresa original perteneciente al usuario consultivo ❌
+1128. que tenga beneficiarios guardados ❌
+1129. Tener un beneficiario creado desde Unificación de Transferencias ❌
+1130. Disponer de un usuario consultivo con dos cuentas con dinero que puedan realizar traspasos (deben ser ambas cuentas de la misma titularidad) ❌
+1131. Disponer también del usuario empresa original perteneciente al usuario consultivo ❌
+1132. que disponga de al menos una cuenta de valores ❌
+1133. Cumpla con los requisitos para poder operar dentro del mercado de Valores ❌
+1134. Debe disponer de valores con títulos ya comprados en mercado internacional y que se encuentren disponibles para la venta ❌
+1135. Sea accionista para poder realizar la operativa ❌
+1136. esta prueba solo se podrá ejecutar en periodos que este abierto el plazo para la delegación de voto ❌
+1137. El usuario debe disponer de al menos una Cuenta de Valores (CCV) operativa y activa ❌
+1138. y cumplir con los requisitos para poder operar dentro del mercado de Valores ❌
+1139. La CCV debe tener al menos una Cuenta Corriente (CCC) asociada con saldo disponible suficiente (No pueden ser de firma conjunta, o de un tipo de producto que no se pueda asociar a un contrato de valores, o tratarse de un ordenante que sea menor/no-residente español/discapacitado/autorizado/etc.) ❌
+1140. El usuario debe disponer de al menos una Cuenta de Valores (CCV) operativa y activa ❌
+1141. y cumplir con los requisitos para poder operar dentro del mercado internacional de Valores ❌
+1142. La CCV debe tener al menos una Cuenta Corriente (CCC) asociada con saldo disponible suficiente (No pueden ser de firma conjunta, o de un tipo de producto que no se pueda asociar a un contrato de valores, o tratarse de un ordenante que sea menor/no-residente español/discapacitado/autorizado/etc.) ❌
+1143. que disponga de al menos una cuenta de valores ❌
+1144. Cumpla con los requisitos para poder operar dentro del mercado de Valores ❌
+1145. Debe disponer de valores con títulos ya comprados en mercado nacional y que se encuentren disponibles para la venta ❌
+1146. que disponga de contrato de valores y de movimientos y órdenes en divisa euro y diferente a euro ❌
+1147. disponga de órdenes pendientes y órdenes ejecutadas ❌
+1148. que disponga de contrato de valores y de movimientos y órdenes en divisa euro y diferente a euro ❌
+1149. disponga de órdenes pendientes, órdenes ejecutadas y finalizadas ❌
+1150. con cuenta de valores ❌
+1151. y test de conveniencia con resultado Conveniente ❌
+1152. e intención de compra de activo ETF con doc KID vinculado ❌
+1153. con cuenta de valores ❌
+1154. y test de conveniencia con resultado NO Conveniente ❌
+1155. e intención de compra de activo ETF con doc KID vinculado ❌
+1156. con cuenta de valores ❌
+1157. y test de conveniencia NO COMPLETADO ❌
+1158. e intención de compra de activo ETF con doc KID vinculado ❌
+1159. con cuenta de valores ❌
+1160. e intención de compra de activo ETF con doc KID vinculado ❌
+1161. con cuenta de valores ❌
+1162. e intención de compra de activo ETF con doc KID vinculado ❌
+1163. con cuenta de valores ❌
+1164. e intención de compra de activo ETF con doc KID vinculado ❌
+1165. con cuenta de valores ❌
+1166. y test de conveniencia con resultado Conveniente ❌
+1167. e intención de compra de activo ETF SIN doc KID vinculado ❌
+1168. con cuenta de valores ❌
+1169. e intención de compra de activo ETF SIN doc KID vinculado ❌
+1170. El usuario debe de cumplir las condiciones para poder contratar un Preco ❌
+1171. El usuario debe de cumplir las condiciones para poder contratar un Preco ❌
+1172. Disponer de un usuario particular que se le muestre un banner de renta ❌
+1173. Disponer de usuario Empresa no existente en la lista Robinson ❌
+1174. Disponer de un usuario particular que se le muestre un banner de renta ❌
+1175. Disponer de un usuario particular que se le muestre un banner de openBR ❌
+1176. Disponer de usuario Particular que se le muestre un banner de Línea de Expansión ❌
+1177. Disponer de un usuario particular que se le muestre un banner de Universal Link ❌
+1178. y disponer de alguna domiciliación en una de estas cuentas ❌
+1179. La cuenta de que dispone debe de tener por lo menos un recibo pagado y que se haya solicitado su devolución recientemente ❌
+1180. Disponer de un usuario enrolado en BIZUM ❌
+1181. El usuario debe tener contactos asociados a su número de teléfono ❌
+1182. Disponer de un usuario enrolado en BIZUM ❌
+1183. El usuario debe tener contactos asociados a su número de teléfono ❌
+1184. Disponer de un usuario enrolado en BIZUM ❌
+1185. Contacto con número mal guardado ejemplo *012* ❌
+1186. Disponer de un usuario enrolado en BIZUM ❌
+1187. Disponer de 5 contactos en el listado asociados a bizum ❌
+1188. Disponer de un usuario enrolado en BIZUM ❌
+1189. El usuario debe tener contactos asociados a su número de teléfono ❌
+1190. En caso de no estar asociado a bizum dar de alta ❌
+1191. Disponer de un usuario enrolado en BIZUM ❌
+1192. El usuario debe tener contactos asociados a su número de teléfono ❌
+1193. Disponer de un usuario enrolado en BIZUM ❌
+1194. Disponer de cuenta asociada a bizum ❌
+1195. Disponer de un usuario enrolado en BIZUM ❌
+1196. Disponer de cuenta asociada a bizum ❌
+1197. El usuario debe tener una solicitud pendiente a gestionar ❌
+1198. Disponer de un usuario enrolado en BIZUM ❌
+1199. Disponer de cuenta asociada a bizum ❌
+1200. El usuario debe tener en sus movimientos una solicitud de dinero recibida ❌
+1201. Disponer de un usuario enrolado en BIZUM ❌
+1202. Disponer de cuenta asociada a bizum ❌
+1203. El usuario debe tener en sus movimientos una solicitud de dinero recibida rechazada anteriormente ❌
+1204. Disponer de otro usuario enrolado en BIZUM con teléfono extranjero cuyo contacto está guardado en la agenda ❌
+1205. Disponer de otro usuario enrolado en BIZUM con teléfono extranjero cuyo contacto no está guardado en la agenda ❌
+1206. Con Tarjetas Mixta de beneficiarUAT_iOS ❌
+1207. Scoring preconcedido >3000 ❌
+1208. Disponer de un usuario que tenga uno o varUAT_iOS movimientos de instant money que pueda anular ❌
+1209. teniendo el alta en bizum correctamente configurada (necesaria para acceder a los últimos movimientos a anular) ❌
+1210. Disponer de un contrato de Instant Money dado de alta para el usuario ❌
+1211. y dispositivo no enrolado ❌
+1212. que tenga un scoring igual o superior a 4300 ❌
+1213. y pueda solicitar nueva tarjeta por el flujo de Instant Selling ❌
+1214. que tenga Scoring ❌
+1215. y pueda solicitar nueva tarjeta por el flujo de Instant Selling ❌
+1216. que tenga Scoring ❌
+1217. y pueda solicitar nuevas tarjetas por el flujo de Instant Selling ❌
+1218. que tenga Scoring ❌
+1219. y pueda solicitar nueva tarjeta por el flujo de Instant Selling ❌
+1220. que no tenga scoring ❌
+1221. No sea cliente onbording ❌
+1222. que tenga Scoring ❌
+1223. y pueda solicitar nueva tarjeta por el flujo de Instant Selling ❌
+1224. Descripcion: Esta prueba valida la redireccion al funnel P4 para la contratacion de tarjetas desde el Pre-login ❌
+1225. que no tenga un Push activo ❌
+1226. y tener Fingerprint activado ❌
+1227. Disponer de dispositivo con proxy activado ❌
+1228. Disponer de dispositivo con proxy activado ❌
+1229. El usuario debe de cumplir las condiciones para poder contratar una línea de expansión ❌
+1230. El usuario debe de cumplir las condiciones para poder contratar una línea de expansión ❌
+1231. El usuario debe de cumplir las condiciones para poder contratar un Preco ❌
+1232. Disponer de usuario Particular con oferta de Línea de Crédito y sin oferta de Préstamo Preconcedido ❌
+1233. Disponer de usuario Particular con oferta de Préstamo Preconcedido ❌
+1234. Disponer de usuario Particular que haya iniciado anteriormente el flujo de Préstamo Sabadell (PEXDI), pero no lo haya completado Recovery de Préstamo PEXDI se muestra si: Variable de personalización posisición 148= 01 y Posición 9 del indipers = 1,2,3,4,5 ❌
+1235. Disponer de usuario Particular sin Seguros ❌
+1236. Disponer de usuario Particular sin productos de Ahorro - Inversión ❌
+1237. y no debe tener Scoring ❌
+1238. Disponer de usuario Particular que haya iniciado anteriormente el flujo de Préstamo Sabadell (PEXDI), pero no lo haya completado. Recovery de Préstamo PEXDI se muestra si: Variable de personalización posisición 148= 01 y Posición 9 del indipers = 1,2,3,4,5 ❌
+1239. Disponer de usuario Particular que disponga de correspondencia de tipo Informe Fiscal de antiguedad inferior a 24 meses ❌
+1240. Disponer de usuario Particular que pueda realizar Actualización de DNI ❌
+1241. El usuario debe tener valores ❌
+1242. tiene que ser accionista de BS ❌
+1243. y la operativa de delegación de voto tiene que estar en plazo de delegaciones (para el caso de que estemos dentro del periodo de delegación de voto) ❌
+1244. Disponer de un usuario particular que se le muestre un banner de openURL ❌
+1245. Disponer de un usuario particular que se le muestre un banner de Precos ❌
+1246. Disponer de un usuario particular que se le muestre un banner de Blink Auto ❌
+1247. Disponer de un usuario particular que se le muestre un banner de Blink Hogar ❌
+1248. Disponer de un usuario particular que se le muestre un banner de Junta de Accionistas ❌
+1249. El usuario no debe tener Scoring ❌
+1250. Disponer de un Usuario que disponga de al menos una cartera BSFGS como Particular y otra BSFGS como Empresa ❌
+1251. En el contrato de Empresas debe tener marcada ver cuentas de Particulares ❌
+1252. Disponer de un Usuario que disponga de al menos una cartera GCM como Particular y otra GCM como Empresa ❌
+1253. En el contrato de Empresas debe tener marcada ver cuentas de Particulares ❌
+1254. Disponer de un Usuario que disponga de al menos una cartera BSFGS como Particular y otra BSFGS como Empresa ❌
+1255. En el contrato de Empresas NO debe tener marcada ver cuentas de Particulares ❌
+1256. Disponer de un Usuario que disponga de al menos una cartera GCM como Particular y otra GCM como Empresa ❌
+1257. En el contrato de Empresas NO debe tener marcada ver cuentas de Particulares ❌
+1258. Dispositivo con TouchID o Fingerprint ❌
+1259. Usuario debe haber configurado el TouchID o FingerPrint ❌
+1260. Dispositivo con TouchID o Fingerprint ❌
+1261. Usuario debe haber configurado el TouchID o FingerPrint ❌
+1262. Dispositivo con TouchID o Fingerprint ❌
+1263. Usuario debe haber configurado el TouchID o FingerPrint ❌
+1264. Dispositivo con TouchID o Fingerprint ❌
+1265. Usuario debe haber configurado el TouchID o FingerPrint ❌
+1266. que disponga de notificaciones de documentos destacados pendientes de leer ❌
+1267. este usuario debe estar pilotado ❌
+1268. que disponga de documentos ❌
+1269. que este pilotado ❌
+1270. Tener un usuario particular con un documento "no destacado" no leído ❌
+1271. Con una cuenta Base Expansión único titular ❌
+1272. Con una cuenta Base Expansión único titular y cuenta CIALP como titular ❌
+1273. Tutelado mayor de edad incapacitado (comprobar en sibis que en perfil persona datos básicoa está marcado en check de discapacitado) ❌
+1274. con cuenta base como autorizado ❌
+1275. y validaciones INTE ok ❌
+1276. Con una cuenta Base Expansión único titular y sin cuenta CIALP como titular ❌
+1277. Hijos, autorizados y validaciones INTE ok ❌
+1278. y una cuenta Base como único titular ❌
+1279. que este pilotado ❌
+1280. Tener un usuario particular con un documento "no destacado" no leído ❌
+1281. Con una cuenta Base Expansión único titular ❌
+1282. Con una cuenta Base Expansión único titular y cuenta CIALP como titular ❌
+1283. Tutelado mayor de edad incapacitado (comprobar en sibis que en perfil persona datos básicoa está marcado en check de discapacitado) ❌
+1284. con cuenta base como autorizado ❌
+1285. y validaciones INTE ok ❌
+1286. Con una cuenta Base Expansión único titular y sin cuenta CIALP como titular ❌
+1287. Hijos, autorizados y validaciones INTE ok ❌
+1288. y una cuenta Base como único titular ❌
+1289. con una Ahorro Expansión dada de alta en una oficina ACC ❌
+1290. Móvil con BS instalado ❌
+1291. Con Ahorro Expansión con rutina periódica activa ❌
+1292. Haya actualizado el DNI ❌
+1293. Tener en SIBIS el nombre y apellidos igual que en DNI (Operativa básica => datos básicos) ❌
+1294. NOTA: Caducar el DNI en SIBIS: Operativa básica --> Introducir el DNI del usuario --> Perfil persona --> Datos básicos: En Fecha de caducidad caducar el DNI, en Nombre, Primer y Segundo apellidos introducir los datos reales del usuario. --> Guardar ❌
+1295. No tenga el DNI actualizado ❌
+1296. Enrolar el dispositivo ❌
+1297. NOTA: Preparar el usuario caducándole el DNI en SIBIS, debe tener dos fotos (anverso y reverso) cargadas ❌
+1298. No tenga el DNI actualizado ❌
+1299. Enrolar el dispositivo ❌
+1300. NOTA: Preparar el usuario caducándole el DNI en SIBIS, debe tener una foto (da igual anverso o reverso) cargada ❌
+1301. No tenga el NIE actualizado ❌
+1302. Enrolar el dispositivo ❌
+1303. NOTA: Caducar el NIE en SIBIS: Operativa básica --> Introducir el NIE del usuario --> Perfil persona --> Datos básicos: En Fecha de caducidad caducar el NIE, en Nombre, Primer y Segundo apellidos introducir los datos reales del usuario. --> Guardar ❌
+1304. No tenga el NIE actualizado ❌
+1305. Enrolar el dispositivo ❌
+1306. NOTA: Caducar el NIE en SIBIS: Operativa básica --> Introducir el NIE del usuario --> Perfil persona --> Datos básicos: En Fecha de caducidad caducar el NIE, en Nombre, Primer y Segundo apellidos introducir los datos reales del usuario. --> Guardar ❌
+1307. En SIBIS, para borrar una cara de DNI: Operativa básica --> Cliente --> Expediente documental persona: Seleccionar una de las caras de DNI y pulsar el botón eliminar ❌
+1308. No tenga el DNI actualizado ❌
+1309. Enrolar el dispositivo ❌
+1310. NOTA: Preparar el usuario caducándole el DNI en SIBIS, da igual si tiene solo una o dos fotos (anverso y reverso) cargadas ❌
+1311. No tenga el NIE actualizado ❌
+1312. Enrolar el dispositivo ❌
+1313. NOTA: Caducar el NIE en SIBIS: Operativa básica --> Introducir el NIE del usuario --> Perfil persona --> Datos básicos: En Fecha de caducidad caducar el NIE, en Nombre, Primer y Segundo apellidos introducir los datos reales del usuario. --> Guardar ❌
+1314. Disponer de un usuario con o sin dirección de correo electrónico ❌
+1315. Descripción Esta prueba verifica que cuando se hace clic en el botón " verificar correo electrónico" que está dentro del correo electrónico de verificación, después de 10 minutos de firma en el flujo de modificación de correo electrónico, el usuario verá un «mensaje de tiempo de espera» en lugar de "mensaje de correo electrónico modificado correctamente" ❌
+1316. DNI caducado (en este caso da igual que tenga el ARP válido o no porque no influye para nada) ❌
+1317. La cuenta de que dispone debe de tener por lo menos un recibo pagado recientemente ❌
+1318. La cuenta de que dispone debe de tener por lo menos un recibo pagado y que se haya solicitado su devolución recientemente ❌
+1319. El usuario debe tener un móvil UAT_iOS y uno UAT_Android cuyo número esté enrolado ❌
+1320. El usuario debe tener un móvil UAT_iOS / UAT_Android cuyo número esté enrolado ❌
+1321. la sesion abierta y la app abierta ❌
+1322. El usuario debe tener un móvil UAT_iOS / UAT_Android cuyo número esté enrolado y tenga la sesion abierta y la app abierta ❌
+1323. Los permisos de notificaciones desactivados en el dispositivo ❌
+1324. El usuario debe tener un móvil UAT_iOS / UAT_Android cuyo número esté enrolado ❌
+1325. la sesion debe estar cerrada y la app cerrada ❌
+1326. El usuario debe tener un móvil UAT_iOS / UAT_Android cuyo número esté enrolado ❌
+1327. La sesion debe estar cerrada y la app abierta ❌
+1328. El usuario debe tener un móvil UAT_iOS / UAT_Android cuyo número esté enrolado ❌
+1329. la sesion debe estar cerrada y la app cerrada ❌
+1330. El usuario debe tener un móvil UAT_iOS / UAT_Android cuyo número esté enrolado ❌
+1331. la sesion debe estar cerrada y la app cerrada ❌
+1332. El usuario debe tener un móvil UAT_iOS / UAT_Android cuyo número esté enrolado ❌
+1333. la sesión cerrada y la app abierta ❌
+1334. El usuario debe tener un móvil UAT_iOS / UAT_Android cuyo número esté enrolado ❌
+1335. la sesion debe estar cerrada y la app abierta ❌
+1336. El usuario debe tener un móvil UAT_iOS / UAT_Android cuyo número esté enrolado ❌
+1337. y la sesion cerrada ❌
+1338. Disponer de dos usuarUAT_iOS ❌
+1339. El usuario debe tener contrato de fondos activo ❌
+1340. El usuario debe haber realizado operaciones con los fondos que reflejen movimientos en estos ❌
+1341. Se requiere disponer de un tributo municipal para poder realizar esta prueba que no este caducado con su numero de emisora, referencia, identificador e importe ❌
+1342. Se necesita también datos de un Seguro social para realizar el pago de este de tipo Régimen general con su correspondiente Referencia, identificador e importe ❌
+1343. para realizar esta prueba necesitaremos información sobre un impuesto de la renta modelo 100, necesitaremos el Anagrama, Nº Justificante e Importe ❌
+1344. que sea de Gestión Activa ❌
+1345. El dispositivo no debe tener instalada la aplicación de twitter ❌
+1346. que disponga de un contrato de valores ❌
+1347. Sea accionista del Banco Sabadell ❌
+1348. Disponer de un móvil que pueda leer códigos QR ❌
+1349. que sea de Gestión Activa ❌
+1350. El gestor debe estar disponible ❌
+1351. Todavía no haya hecho login ninguna vez en la aplicación ❌
+1352. Todavía no haya hecho login ninguna vez en la aplicación ❌
+1353. Todavía no haya hecho login ninguna vez en la aplicación ❌
+1354. El usuario debe tener enrolado bizum en otra entidad bancaria ❌
+1355. El usuario debe estar enrolado en Bizum ❌
+1356. El usuario no registrado en Bizum ❌
+1357. Disponer de un usuario enrolado en BIZUM ❌
+1358. Disponer de un dispositivo que contenga al menos un contacto con las siguiente características: - Primera letra del nombre con números al inicio - Primera letra del segundo nombre con un número - Primera letra del apellido con números al inicio ❌
+1359. Disponer de un usuario enrolado en BIZUM ❌
+1360. Disponer de un usuario enrolado en BIZUM ❌
+1361. El usuario debe tener contactos asociados a su número de teléfono ❌
+1362. El usuario debe haber realizado previamente al menos 40? operaciones de envío ese mismo día ❌
+1363. Disponer de un usuario enrolado en BIZUM ❌
+1364. El usuario debe tener contactos asociados a su número de teléfono ❌
+1365. El usuario debe tener BIZUM activo y con saldo suficiente para realizar una donación ❌
+1366. Disponer de un usuario enrolado en BIZUM ❌
+1367. Disponer un número de teléfono que no este asociado a bizum ❌
+1368. Disponer de un contacto en el listado asociado a bizum ❌
+1369. Disponer de un usuario enrolado en BIZUM ❌
+1370. Disponer de un dispositivo que contenga un contacto con las siguiente características: - Primera letra del nombre con mayúscula y acento - Primera letra del apellido con mayúscula - Nombres con un carácter especial (Ej: +, < , >, [, etc...) - Nombres con números en el apellido o nombre ❌
+1371. Disponer de un usuario enrolado en BIZUM ❌
+1372. Disponer un número de teléfono que no este asociado a izum ❌
+1373. Disponer de un contacto en el listado asociado a bizum ❌
+1374. El usuario debe estar enrolado bizum en otra entidad bancaria ❌
+1375. Disponer de un usuario enrolado en BIZUM en otra entidad ❌
+1376. Disponer de cuenta asociada a bizum ❌
+1377. Disponer de un usuario enrolado en BIZUM ❌
+1378. Disponer un número de teléfono que no este asociado a izum ❌
+1379. Disponer de un usuario enrolado en BIZUM ❌
+1380. El usuario debe tener grabado en su listado de contactos sus datos y número de teléfono ❌
+1381. Disponer de un usuario enrolado en BIZUM ❌
+1382. Disponer de cuenta asociada a bizum ❌
+1383. Usuario sin movimientos bizum ❌
+1384. Disponer de un usuario enrolado en BIZUM ❌
+1385. Disponer de cuenta asociada a bizum ❌
+1386. El usuario debe tener en sus movimientos un Envío realizado ❌
+1387. Disponer de un usuario enrolado en BIZUM ❌
+1388. Disponer de cuenta asociada a bizum ❌
+1389. El usuario debe tener en sus movimientos un Envío múltiple realizado ❌
+1390. Tenga una Línea Expansión preconcedida sin activar ❌
+1391. con una Línea Expansión con morosidad ❌
+1392. El dispositivo debe tener la versión actual instalada donde el usuario esté recordado y con la firma digital y biometría enrolada ❌
+1393. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado y con la firma digital sin enrolar ❌
+1394. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado y con la firma digital enrolada ❌
+1395. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado y con la firma digital enrolada ❌
+1396. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado, biometria activada y con la firma digital enrolada ❌
+1397. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado, biometria activado y con la firma digital enrolada ❌
+1398. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado, biometria enrolada y con la firma digital enrolada ❌
+1399. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado, biometria enrolada y con la firma digital enrolada ❌
+1400. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado, biometria activada y con la firma digital sin enrolar ❌
+1401. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado, biometria activada y con la firma digital sin enrolar ❌
+1402. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado, biometria enrolada y con la firma digital sin enrolar ❌
+1403. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado, biometria enrolada y con la firma digital sin enrolar ❌
+1404. El dispositivo debe tener la versión anterior instalada donde el usuario esté recordado y con la firma digital sin enrolar ❌
+1405. Disponer de un usuario Empresa que contenga un usuario Consultivo con su correspondiente contraseña (dicho UC debe tener acceso Consultar y preparar operaciones en alguna cuenta) ❌
+1406. que disponga de un usuario consultivo dado de alta ❌
+1407. Usuario con firma VTPC1 con contrato bloqueado desde oficina ❌
+1408. Utilizar un dispositivo con versión UAT_Android 9 o superior ❌
+1409. Utilizar un dispositivo con versión UAT_Android 9 o superior ❌
+1410. con préstamos contratados ❌
+1411. con movimientos en los que aparezaca el logo ❌
+1412. movimientos en los que aparezca la inicial ❌
+1413. con movimientos con conceptos menor a dos líneas y mayor a dos líneas ❌
+1414. El usuario no debe haber realizado la valoración de la operativa de fraccionamiento en el móvil en el que se está realizando la prueba, ni en cuentas ni en tarjetas ❌
+1415. Usuario particular con firma vTPC1 o Vtpc2 con una cuenta Base con Movimientos superiores a 50 ? realizados en los últimos 30 días ❌
+1416. El cliente tiene que tener el Consentimiento Aceptado e imprimir el ARP recientemente ❌
+1417. Que no tenga una CALP ya dada de alta ❌
+1418. Unico titular ❌
+1419. Móvil con BS instalado ❌
+1420. y un movimiento que se pueda ahorrar ❌
+1421. y un movimiento que se pueda ahorrar ❌
+1422. En ambas tarjetas compra en comercio físico en el que aparezca el mapa (servio de proveedor externo) y un movimiento de compra física en el que no aparezca el mapa (este campo pasa a llamarse Localidad) ❌
+1423. En ambas tarjetas compra en comercio físico en el que aparezca el mapa (servio de proveedor externo) y un movimiento de compra física en el que no aparezca el mapa (este campo pasa a llamarse Localidad) ❌
+1424. En ambas tarjetas compra en comercio físico en el que aparezca el mapa y sin aplicación de mapas instalada en el teléfono ❌
+1425. En ambas tarjetas compra en comercio físico en el que aparezca el mapa y sin aplicación de mapas instalada en el teléfono ❌
+1426. En ambas tarjetas los siguientes movimientos: un movimientos pendiente, movimiento con una solicitud de devolución ya en curso, un movimiento antiguo del que no se puede solicitar devolución, un movimiento al que si se le pueda solicitar la devolución ❌
+1427. En ambas tarjetas los siguientes movimientos: un movimientos pendiente, movimiento con una solicitud de devolución ya en curso, un movimiento antiguo del que no se puede solicitar devolución, un movimiento al que si se le pueda solicitar la devolución ❌
+1428. Disponer de otro usuario vinculado con el primero para realizar operación que permita dejarla pendiente de firma ❌
+1429. Disponer de una prueba realizada y en estado pendiente de firma ❌
+1430. Disponer de dispositivo UAT_Android para poder realizar operación para el caso de UAT_Android ❌
+1431. Disponer de dispositivo UAT_iOS para poder realizar la operación para el caso de UAT_iOS ❌
+1432. Disponer de fichero de lotes internacionales en divisa (LTIN norma propia) configurado para dicha cuenta y usuario Empresa autorizado 1 ❌
+1433. Disponer de operativa pendiente de firma ❌
+1434. Disponer de operativa pendiente de firma ❌
+1435. Disponer de un DNI fisico real, una email valido que pueda recibir correos del flujo onboarding y un numero de telefono real ❌
+1436. Pulsar ""Hazte Cliente"" en la Landing de Banca Asociada https://prepro.bancsabadell.com/cuenta-online-banca-asociada/ CIF: B04369963 ❌
+1437. Realizar un flujo normal de Onboarding y dar KO en Zendesk para anular las cuentas del cliente y convertirlo en cliente Existente ❌
+1438. Pulsar ""Hazte Cliente"" en la Landing de Banca Asociada https://prepro.bancsabadell.com/cuenta-online-banca-asociada/ CIF: B04369963 ❌
+1439. Realizar un flujo de Onboarding Banca Asociada y dar KO en Zendesk para anular las cuentas del cliente y convertirlo en cliente Existente ❌
+1440. Pulsar ""Hazte Cliente"" en la Landing de Banca Asociada https://prepro.bancsabadell.com/cuenta-online-banca-asociada/ CIF: B04369963 ❌
+1441. Pulsar ""Hazte Cliente"" en la Landing de UPTA: https://prepro.bancsabadell.com/cuenta-online-autonomos/?cto=360142 ❌
+1442. Realizar un flujo de Onboarding y dar KO en Zendesk para anular las cuentas del cliente y convertirlo en cliente Existente ❌
+1443. Pulsar ""Hazte Cliente"" en la Landing de UPTA: https://prepro.bancsabadell.com/cuenta-online-autonomos/?cto=360142 ❌
+1444. Realizar un flujo de Onboarding normal no es relevante si es Autónomo o Particular y dar KO en Zendesk para anular las cuentas del cliente y convertirlo en cliente Existente ❌
+1445. Finalizar un flujo de Onboarding para un usuario Autónomo y dar OK en Zendesk ❌
+1446. 2. Revisar que muestra la pantalla de Bienvenida del Hub de Activación https://halleyconf.bancsabadell.com/pages/viewpage.action?pageId=89035705 , US01, C3, y pulsar "Configura tu Cuenta" ❌
+1447. 3. Revisar que Abre correctamente el Hub de Activación después de completar los procesos de Biometría y la Firma Digital ❌
+1448. 4. Pulsar "Hacerlo más tarde" ❌
+1449. Finalizar un flujo de Onboarding para un usuario Particular y dar OK en Zendesk ❌
+1450. 2. Revisar que muestra la pantalla de Bienvenida del Hub de Activación de Particulares ❌
+1451. 3. Revisar que Abre correctamente el Hub de Activación después de completar los procesos de Biometría y la Firma Digital ❌
+1452. 4. Pulsar "Hacerlo más tarde" ❌
+1453. que posea al menos un plan de ahorro activo con la aportación activada y tipo de firma vTPC1 ❌
+1454. asociado a Autonomus ❌
+1455. con uno o varUAT_iOS ❌
+1456. que disponga de préstamo preconcedidos con intervinientes 1 ❌
+1457. y un bureaux = S ❌
+1458. que disponga de préstamo preconcedidos con intervinientes 1 ❌
+1459. y un bureaux = N ❌
+1460. que disponga de préstamo preconcedidos con intervinientes +1 ❌
+1461. y un bureaux = N ❌
+1462. Tenga un precos preconcedido ❌
+1463. y una Línea Expansión preconcedida ❌
+1464. Disponga de más de un producto de financiación ❌
+1465. con varUAT_iOS préstamos preconcedido (bureau S ? un préstamo con un titular y otro préstamo con varUAT_iOS titulares) ❌
+1466. con préstamo preconcedido con dos titulares (bureau N) ❌
+1467. Disponer de un usuario enrolado en BIZUM y en el móvil (para ello se debe hacer un login previo a la prueba) ❌
+1468. La tarjeta seleccionada debe estar activada, con posibilidad de operar con ella y con envio a OFICINA (asociado a una cuenta con firma conjunta) ❌
+1469. La tarjeta seleccionada debe estar activada y con posibilidad de operar con ella y no tiene envio a la oficina ❌
+1470. que disponga de tarjeta pendiente de activar que muestre documentación ❌
+1471. Disponer de la aplicación SIBIS para poder obtener la fecha de caducidad de la tarjeta y disponer del código CVV2 de la tarjeta ❌
+1472. y operaciones para poder fraccionar ❌
+1473. De liquidaciones con algún documento anexo ❌
+1474. De liquidaciones con algún documento anexo ❌
+1475. que tenga una tarjeta de crédito apagada y sea titular de la tarjeta ❌
+1476. Usuario con al menos una tarjeta de crédito apagada (Apagar si no lo está) ❌
+1477. y en los movimientos de cuentas tenga liquidaciones de estas tarjetas que se puedan aplazar ❌
+1478. y en los movimientos de cuentas tenga liquidaciones de estas tarjetas que se puedan aplazar ❌
+1479. Con al menos una tarjeta de beneficiario de crédito ❌
+1480. El usuario debe ser el beneficiario de la tarjeta ❌
+1481. La tarjeta tiene que ser con envío a oficina (cuenta de firma conjunta) ❌
+1482. Con al menos una tarjeta de beneficiario de débito ❌
+1483. El usuario debe ser el beneficiario de la tarjeta ❌
+1484. El usuario debe tener configurado el tipo de envio de tarjetas como "Oficina" (cuenta de firma conjunta) ❌
+1485. Con al menos una tarjeta mixta de beneficiario ❌
+1486. El usuario debe ser el beneficiario de la tarjeta ❌
+1487. El usuario debe tener configurado el tipo de envio de tarjetas como "Oficina" (cuenta de firma conjunta) ❌
+1488. Con al menos una tarjeta de beneficiario de crédito ❌
+1489. El usuario con el que se acceda debe ser el titular de la cuenta asociada a la tarjeta, no el beneficiario ❌
+1490. El usuario debe tener configurado el tipo de envio de tarjetas como "Oficina" (cuenta de firma conjunta) ❌
+1491. Con al menos una tarjeta de beneficiario de débito ❌
+1492. El usuario con el que se acceda debe ser el titular de la cuenta asociada a la tarjeta, no el beneficiario ❌
+1493. La tarjeta tiene que ser con envío a oficina (cuenta de firma conjunta) ❌
+1494. Con Tarjetas de beneficiarUAT_iOS y movimientos ❌
+1495. Con Tarjetas de beneficiarUAT_iOS y movimientos fraccionables ❌
+1496. Con Tarjetas Mixta de beneficiarUAT_iOS y movimientos fraccionables ❌
+1497. Con Tarjetas de beneficiarUAT_iOS pero ingresando desde la banca distancia del Titular de la cuenta de la misma ❌
+1498. Tenga al menos una tarjeta de débito con algún movimiento fraccionable ❌
+1499. y al menos una tarjeta de crédito con saldo suficiente para fraccionarlo ❌
+1500. Disponer de dispositivo con cuenta gmail vinculada ❌
+1501. que tenga órdenes en curso, pendientes y finalizadas ❌
+1502. que tenga movimientos en una cuenta de valores ❌
+1503. que tenga cuenta de valores y posiciones, tanto en EUR como en divisa distinta a EUR ❌
+1504. que no disponga de CCV contratadas ❌
+1505. Cumpla los requisitos para la contratación de Productos como Cuentas de Valores ❌
+1506. El usuario NO debe disponer de carteras simuladas ❌
+1507. que NO disponga de cuentas de valores ❌
+1508. Cumpla los requisitos para la contratación de Productos como Cuentas de Valores ❌
+1509. que disponga de un contrato de valores para poder realizar operaciones ❌
+1510. Dado de alta un usurio consultivo de empresa ❌
+1511. El usuario debe disponer de al menos una Cuenta de Valores (CCV) operativa y activa ❌
+1512. y cumplir con los requisitos para poder operar dentro del mercado de Valores y disponga de un título internacional ❌
+1513. Usuario con Acceso a Banca distancia Particulares (profesional por solicitud) ❌
+1514. titular de una cuenta de valores e intención de compra de activo ETF con doc KID vinculado ❌
+1515. Usuario con Acceso a Banca distancia Empresas (minorista) ❌
+1516. con cuenta de valores y test de conveniencia con resultado Conveniente ❌
+1517. e intención de compra de activo ETF con doc KID vinculado ❌
+1518. Usuario con Acceso a Banca distancia EMPRESAS (minorista) ❌
+1519. con cuenta de valores y test de conveniencia con resultado NO Conveniente ❌
+1520. e intención de compra de activo ETF con doc KID vinculado ❌
+1521. Usuario con Acceso a Banca distancia Empresas (minorista) ❌
+1522. con cuenta de valores y test de conveniencia NO COMPLETADO ❌
+1523. e intención de compra de activo ETF con doc KID vinculado ❌
+1524. Usuario con Acceso a Banca distancia EMPRESAS (profesional Per Se) ❌
+1525. con cuenta de valores e intención de compra de activo ETF con doc KID vinculado ❌
+1526. Usuario con Acceso a Banca distancia EMPRESAS (profesional por solicitud) ❌
+1527. con cuenta de valores e intención de compra de activo ETF con doc KID vinculado ❌
+1528. Usuario con Acceso a Banca distancia EMPRESAS (contra parte elegible) ❌
+1529. con cuenta de valores e intención de compra de activo ETF con doc KID vinculado ❌
+1530. Usuario con Acceso a Banca distancia Particulares (minorista) ❌
+1531. con cuenta de valores y test de conveniencia con resultado Conveniente ❌
+1532. e intención de compra de activo ETF sin doc KID vinculado ❌
+1533. Usuario con Acceso a Banca distancia Particulares (minorista) ❌
+1534. con cuenta de valores y test de conveniencia con resultado No Conveniente ❌
+1535. e intención de compra de activo ETF sin doc KID vinculado ❌
+1536. Usuario con Acceso a Banca distancia EMPRESAS (minorista) ❌
+1537. con cuenta de valores y test de conveniencia con resultado Conveniente ❌
+1538. e intención de compra de activo ETF sin doc KID vinculado ❌
+1539. Usuario con Acceso a Banca distancia EMPRESAS (profesional Per Se) ❌
+1540. con cuenta de valores e intención de compra de activo ETF SIN doc KID vinculado ❌
+1541. No tenga el DNI actualizado ❌
+1542. No tenga el DNI actualizado ❌
+1543. Enrolar el dispositivo ❌
+1544. El usuario debe disponer de al menos dos Fondo de Inversión activos ❌
+1545. Tener un usuario Particular VTPC1 que esté registrado en el BIZUM ❌
+1546. y no tener la firma enrolada ❌
+1547. Bizum ❌
+1548. y pagos CES pendientes ❌
+1549. disponer de un IPHONE con siri configurado para realizar la prueba ❌
+1550. con préstamo preconcedido con un titular (bureau S) ❌
+1551. que disponga de una única cuenta de valores y una única cuenta vista asociada ❌
+1552. Cumpla con los requisitos para poder operar dentro del mercado de Valores ❌
+1553. El usuario debe disponer de más de una Cuenta de Valores (CCV) ❌
+1554. con el mismo valor comprado anteriormente en varias CCV y que cumpla con los requisitos para poder operar dentro del mercado de valores ❌
+1555. No firme conjuntamente ❌
+1556. El usuario debe disponer de al menos una Cuenta de Valores (CCV) con al menos una acción comprada con anterioridad ❌
+1557. que tenga cuenta de valores ❌

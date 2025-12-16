@@ -1,0 +1,555 @@
+Backup created: c:\Users\rodri\proyectos_vs\data\entrada\casos_bs\casos_revisados_backup_before_mappings.txt
+Total changes: 138
+
+Line 353:
+  - OLD: - Una este marcada como no visualizarla por BSO❌Sin modelar
+  - NEW: - Una este marcada como no visualizarla por BSO✅TIENE_BANCA_A_DISTANCIA
+
+Line 466:
+  - OLD: - este usuario debe haber entrado como mínimo una vez en BSO❌Sin modelar
+  - NEW: - este usuario debe haber entrado como mínimo una vez en BSO✅TIENE_BANCA_A_DISTANCIA
+
+Line 475:
+  - OLD: - este usuario debe haber entrado como mínimo una vez en BSO❌Sin modelar
+  - NEW: - este usuario debe haber entrado como mínimo una vez en BSO✅TIENE_BANCA_A_DISTANCIA
+
+Line 1624:
+  - OLD: - Debe tener una cuenta base donde el usuario de BSO esté como Autorizado❌Sin modelar
+  - NEW: - Debe tener una cuenta base donde el usuario de BSO esté como Autorizado✅TIENE_BANCA_A_DISTANCIA
+
+Line 1882:
+  - OLD: - y tener acceso a BSO/BSM❌Sin modelar
+  - NEW: - y tener acceso a BSO/BSM✅TIENE_BANCA_A_DISTANCIA
+
+Line 1892:
+  - OLD: - El usuario debe disponer del TyC firmado❌Sin modelar
+  - NEW: - El usuario debe disponer del TyC firmado✅TIPO_DE_FIRMA_DIGITAL_BSO
+
+Line 2000:
+  - OLD: - Disponer de un usuario que tenga productos y no tenga dado de alta un contrato de banca a distancia Particular❌Sin modelar
+  - NEW: - Disponer de un usuario que tenga productos y no tenga dado de alta un contrato de banca a distancia Particular✅TIENE_BANCA_A_DISTANCIA
+
+Line 2006:
+  - OLD: - Disponer de un Usuario que disponga de un contrato de banca a distancia de Plan de Pensiones❌Sin modelar
+  - NEW: - Disponer de un Usuario que disponga de un contrato de banca a distancia de Plan de Pensiones✅TIENE_BANCA_A_DISTANCIA
+
+Line 2031:
+  - OLD: - que se pueda logar en BSO❌Sin modelar
+  - NEW: - que se pueda logar en BSO✅TIENE_BANCA_A_DISTANCIA
+
+Line 2299:
+  - OLD: - Disponer de un usuario particular con contrato de banca a distancia "Empresas"❌Sin modelar
+  - NEW: - Disponer de un usuario particular con contrato de banca a distancia "Empresas"✅TIENE_BANCA_A_DISTANCIA
+
+Line 2330:
+  - OLD: - y sea un usuario que tenga BSO❌Sin modelar
+  - NEW: - y sea un usuario que tenga BSO✅TIENE_BANCA_A_DISTANCIA
+
+Line 2641:
+  - OLD: - este usuario debe haber entrado como mínimo una vez en BSO❌Sin modelar
+  - NEW: - este usuario debe haber entrado como mínimo una vez en BSO✅TIENE_BANCA_A_DISTANCIA
+
+Line 2650:
+  - OLD: - este usuario debe haber entrado como mínimo una vez en BSO❌Sin modelar
+  - NEW: - este usuario debe haber entrado como mínimo una vez en BSO✅TIENE_BANCA_A_DISTANCIA
+
+Line 2659:
+  - OLD: - En el contrato de banca a distancia tipo empresa tenga marcada la opción Ver cuentas de particulares "Sí" (visible solo en SIBIS proteo)❌Sin modelar
+  - NEW: - En el contrato de banca a distancia tipo empresa tenga marcada la opción Ver cuentas de particulares "Sí" (visible solo en SIBIS proteo)✅TIENE_BANCA_A_DISTANCIA
+
+Line 2708:
+  - OLD: - El usuario debe disponer del TyC firmado❌Sin modelar
+  - NEW: - El usuario debe disponer del TyC firmado✅TIPO_DE_FIRMA_DIGITAL_BSO
+
+Line 2935:
+  - OLD: - Usuario con banca a distancia Empresa con solo una cuenta❌Sin modelar
+  - NEW: - Usuario con banca a distancia Empresa con solo una cuenta✅TIENE_BANCA_A_DISTANCIA
+
+Line 3377:
+  - OLD: - Esta cuenta disponga de firma conjunta con otro interviniente que disponga de contrato de banca a distancia de tipo Empresa con firma VTPC2 para poder finalizar la operación❌Sin modelar
+  - NEW: - Esta cuenta disponga de firma conjunta con otro interviniente que disponga de contrato de banca a distancia de tipo Empresa con firma VTPC2 para poder finalizar la operación✅TIENE_BANCA_A_DISTANCIA
+
+Line 3914:
+  - OLD: - En el contrato de banca a distancia tipo empresa tenga marcada la opción Ver cuentas de particulares "Sí"❌Sin modelar
+  - NEW: - En el contrato de banca a distancia tipo empresa tenga marcada la opción Ver cuentas de particulares "Sí"✅TIENE_BANCA_A_DISTANCIA
+
+Line 4004:
+  - OLD: - que se pueda logar en BSO❌Sin modelar
+  - NEW: - que se pueda logar en BSO✅TIENE_BANCA_A_DISTANCIA
+
+Line 4084:
+  - OLD: - que disponga de alguna tarjeta con la marca Apple Pay y sea un usuario que tenga BSO❌Sin modelar
+  - NEW: - que disponga de alguna tarjeta con la marca Apple Pay y sea un usuario que tenga BSO✅TIENE_BANCA_A_DISTANCIA
+
+Line 4119:
+  - OLD: - que ya accedido a BSM alguna vez❌Sin modelar
+  - NEW: - que ya accedido a BSM alguna vez✅TIENE_BANCA_A_DISTANCIA
+
+Line 4232:
+  - OLD: - y tener activada la notificación Push en BSM.❌Sin modelar
+  - NEW: - y tener activada la notificación Push en BSM.✅TIENE_BANCA_A_DISTANCIA
+
+Line 4240:
+  - OLD: - y tener activada la notificación Push en el BSM.❌Sin modelar
+  - NEW: - y tener activada la notificación Push en el BSM.✅TIENE_BANCA_A_DISTANCIA
+
+Line 4248:
+  - OLD: - tener activada la notificación Push en el BSM❌Sin modelar
+  - NEW: - tener activada la notificación Push en el BSM✅TIENE_BANCA_A_DISTANCIA
+
+Line 4434:
+  - OLD: - Que sea usuario objetivo para poder actualizar el DNI desde BSM.❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el DNI desde BSM.✅TIENE_BANCA_A_DISTANCIA
+
+Line 5324:
+  - OLD: - En el contrato de banca a distancia tipo empresa tenga marcada la opción Ver cuentas de particulares "Sí"❌Sin modelar
+  - NEW: - En el contrato de banca a distancia tipo empresa tenga marcada la opción Ver cuentas de particulares "Sí"✅TIENE_BANCA_A_DISTANCIA
+
+Line 5414:
+  - OLD: - que se pueda logar en BSO❌Sin modelar
+  - NEW: - que se pueda logar en BSO✅TIENE_BANCA_A_DISTANCIA
+
+Line 5494:
+  - OLD: - que disponga de alguna tarjeta con la marca Apple Pay y sea un usuario que tenga BSO❌Sin modelar
+  - NEW: - que disponga de alguna tarjeta con la marca Apple Pay y sea un usuario que tenga BSO✅TIENE_BANCA_A_DISTANCIA
+
+Line 5529:
+  - OLD: - que ya accedido a BSM alguna vez❌Sin modelar
+  - NEW: - que ya accedido a BSM alguna vez✅TIENE_BANCA_A_DISTANCIA
+
+Line 5642:
+  - OLD: - y tener activada la notificación Push en BSM.❌Sin modelar
+  - NEW: - y tener activada la notificación Push en BSM.✅TIENE_BANCA_A_DISTANCIA
+
+Line 5650:
+  - OLD: - y tener activada la notificación Push en el BSM.❌Sin modelar
+  - NEW: - y tener activada la notificación Push en el BSM.✅TIENE_BANCA_A_DISTANCIA
+
+Line 5658:
+  - OLD: - tener activada la notificación Push en el BSM❌Sin modelar
+  - NEW: - tener activada la notificación Push en el BSM✅TIENE_BANCA_A_DISTANCIA
+
+Line 5844:
+  - OLD: - Que sea usuario objetivo para poder actualizar el DNI desde BSM.❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el DNI desde BSM.✅TIENE_BANCA_A_DISTANCIA
+
+Line 6451:
+  - OLD: - Esta cuenta disponga de firma conjunta con otro interviniente que disponga de contrato de banca a distancia de tipo Empresa con firma VTPC1 para poder finalizar la operación❌Sin modelar
+  - NEW: - Esta cuenta disponga de firma conjunta con otro interviniente que disponga de contrato de banca a distancia de tipo Empresa con firma VTPC1 para poder finalizar la operación✅TIENE_BANCA_A_DISTANCIA
+
+Line 6562:
+  - OLD: - y una cuenta vista con al menos dos titulares uno que tenga el TYC firmado y otro que no lo tenga❌Sin modelar
+  - NEW: - y una cuenta vista con al menos dos titulares uno que tenga el TYC firmado y otro que no lo tenga✅TIPO_DE_FIRMA_DIGITAL_BSO
+
+Line 6598:
+  - OLD: - que ya accedido a BSM alguna vez❌Sin modelar
+  - NEW: - que ya accedido a BSM alguna vez✅TIENE_BANCA_A_DISTANCIA
+
+Line 6700:
+  - OLD: - que ya accedido a BSM alguna vez ❌Sin modelar
+  - NEW: - que ya accedido a BSM alguna vez ✅TIENE_BANCA_A_DISTANCIA
+
+Line 6896:
+  - OLD: - Móvil con BSM instalado ❌Sin modelar
+  - NEW: - Móvil con BSM instalado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 7067:
+  - OLD: - Móvil con BSM instalado ❌Sin modelar
+  - NEW: - Móvil con BSM instalado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 7179:
+  - OLD: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 7523:
+  - OLD: - Tener acceso a BSM ❌Sin modelar
+  - NEW: - Tener acceso a BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 8584:
+  - OLD: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular puro de Urquijo que posea más de una cartera ❌Sin modelar
+  - NEW: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular puro de Urquijo que posea más de una cartera ✅TIENE_BANCA_A_DISTANCIA
+
+Line 8671:
+  - OLD: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular puro de Urquijo que posea Carteras ❌Sin modelar
+  - NEW: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular puro de Urquijo que posea Carteras ✅TIENE_BANCA_A_DISTANCIA
+
+Line 8696:
+  - OLD: - que nunca haya entrado en BSO pero tenga una clave de acceso ❌Sin modelar
+  - NEW: - que nunca haya entrado en BSO pero tenga una clave de acceso ✅TIENE_BANCA_A_DISTANCIA
+
+Line 8729:
+  - OLD: - y tener acceso a BSO/BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSO/BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 8737:
+  - OLD: - y tener acceso a BSO/BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSO/BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 8746:
+  - OLD: - este usuario debe haber entrado como mínimo una vez en BSO ❌Sin modelar
+  - NEW: - este usuario debe haber entrado como mínimo una vez en BSO ✅TIENE_BANCA_A_DISTANCIA
+
+Line 8895:
+  - OLD: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 8904:
+  - OLD: - Que sea usuario objetivo para poder actualizar el DNI desde BSO ❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el DNI desde BSO ✅TIENE_BANCA_A_DISTANCIA
+
+Line 8929:
+  - OLD: - y tener acceso a BSO/BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSO/BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 8937:
+  - OLD: - y tener acceso a BSO/BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSO/BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 8945:
+  - OLD: - y tener acceso a BSO/BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSO/BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 9119:
+  - OLD: - El usuario debe disponer del TyC firmado ❌Sin modelar
+  - NEW: - El usuario debe disponer del TyC firmado ✅TIPO_DE_FIRMA_DIGITAL_BSO
+
+Line 9129:
+  - OLD: - El usuario debe disponer del TyC firmado ❌Sin modelar
+  - NEW: - El usuario debe disponer del TyC firmado ✅TIPO_DE_FIRMA_DIGITAL_BSO
+
+Line 9141:
+  - OLD: - El usuario debe disponer del TyC firmado ❌Sin modelar
+  - NEW: - El usuario debe disponer del TyC firmado ✅TIPO_DE_FIRMA_DIGITAL_BSO
+
+Line 9152:
+  - OLD: - El usuario debe disponer del TyC firmado ❌Sin modelar
+  - NEW: - El usuario debe disponer del TyC firmado ✅TIPO_DE_FIRMA_DIGITAL_BSO
+
+Line 9176:
+  - OLD: - Acceso a BSO ❌Sin modelar
+  - NEW: - Acceso a BSO ✅TIENE_BANCA_A_DISTANCIA
+
+Line 9688:
+  - OLD: - Disponer de acceso a BSO ❌Sin modelar
+  - NEW: - Disponer de acceso a BSO ✅TIENE_BANCA_A_DISTANCIA
+
+Line 10469:
+  - OLD: - este usuario debe haber entrado como mínimo una vez en BSO ❌Sin modelar
+  - NEW: - este usuario debe haber entrado como mínimo una vez en BSO ✅TIENE_BANCA_A_DISTANCIA
+
+Line 10517:
+  - OLD: - este usuario debe haber entrado como mínimo una vez en BSO ❌Sin modelar
+  - NEW: - este usuario debe haber entrado como mínimo una vez en BSO ✅TIENE_BANCA_A_DISTANCIA
+
+Line 10527:
+  - OLD: - este usuario debe haber entrado como mínimo una vez en BSO ❌Sin modelar
+  - NEW: - este usuario debe haber entrado como mínimo una vez en BSO ✅TIENE_BANCA_A_DISTANCIA
+
+Line 10536:
+  - OLD: - este usuario debe haber entrado como mínimo una vez en BSO ❌Sin modelar
+  - NEW: - este usuario debe haber entrado como mínimo una vez en BSO ✅TIENE_BANCA_A_DISTANCIA
+
+Line 10546:
+  - OLD: - este usuario debe haber entrado como mínimo una vez en BSO ❌Sin modelar
+  - NEW: - este usuario debe haber entrado como mínimo una vez en BSO ✅TIENE_BANCA_A_DISTANCIA
+
+Line 10620:
+  - OLD: - El usuario debe disponer del TyC firmado ❌Sin modelar
+  - NEW: - El usuario debe disponer del TyC firmado ✅TIPO_DE_FIRMA_DIGITAL_BSO
+
+Line 10691:
+  - OLD: - Acceso a BSO ❌Sin modelar
+  - NEW: - Acceso a BSO ✅TIENE_BANCA_A_DISTANCIA
+
+Line 10732:
+  - OLD: - Disponer de esta URL que es un simulador para poder realizar esta prueba y localizar un Usuario con contraro de banca a distancia Empresa y firma VTPC2 para realizar la prueba http://preweb.proteo.bancsabadell.com/proteo-moduloFirmaBV/?urlOK=http%3A%2F%2Fwww.google.cat%2F%3Fq%3Dok&urlKO=http%3A%2F%2Fwww.google.com%2F%3Fq%3Dko&idApp=TES&entidad=0081&ro=0901&tipoFirma=N&key=12345678911234567891&servicio=3&indRiesgo=S&idioma=08&entorn=http%3A%2F%2Fpreweb.proteo.bancsabadell.com%2Fproteo-moduloFirmaBV%2F&usuarioSesion=g023751&numper=22297630&codeTransaccion=VFIT ❌Sin modelar
+  - NEW: - Disponer de esta URL que es un simulador para poder realizar esta prueba y localizar un Usuario con contraro de banca a distancia Empresa y firma VTPC2 para realizar la prueba http://preweb.proteo.bancsabadell.com/proteo-moduloFirmaBV/?urlOK=http%3A%2F%2Fwww.google.cat%2F%3Fq%3Dok&urlKO=http%3A%2F%2Fwww.google.com%2F%3Fq%3Dko&idApp=TES&entidad=0081&ro=0901&tipoFirma=N&key=12345678911234567891&servicio=3&indRiesgo=S&idioma=08&entorn=http%3A%2F%2Fpreweb.proteo.bancsabadell.com%2Fproteo-moduloFirmaBV%2F&usuarioSesion=g023751&numper=22297630&codeTransaccion=VFIT ✅TIENE_BANCA_A_DISTANCIA
+
+Line 10816:
+  - OLD: - Disponer de un usuario con contratos banca a distancia Particular y Empresa donde esté marcado "Ver cuentas particulares" ❌Sin modelar
+  - NEW: - Disponer de un usuario con contratos banca a distancia Particular y Empresa donde esté marcado "Ver cuentas particulares" ✅TIENE_BANCA_A_DISTANCIA
+
+Line 11197:
+  - OLD: - Disponer de un usuario EMPRESA PROFESIONAL que disponga de un contrato de Banca a distancia tipo con un contrato de valores y disponga de cuentas vista ❌Sin modelar
+  - NEW: - Disponer de un usuario EMPRESA PROFESIONAL que disponga de un contrato de Banca a distancia tipo con un contrato de valores y disponga de cuentas vista ✅TIENE_BANCA_A_DISTANCIA
+
+Line 11533:
+  - OLD: - Un usuario particular de banca a distancia y con el indicador "canSplit" activado tendrá la opción de dividir el movimiento ❌Sin modelar
+  - NEW: - Un usuario particular de banca a distancia y con el indicador "canSplit" activado tendrá la opción de dividir el movimiento ✅TIENE_BANCA_A_DISTANCIA
+
+Line 11746:
+  - OLD: - con las notificaciones activas en BSM y los permisos de notificaciones desactivados en el dispositivo ❌Sin modelar
+  - NEW: - con las notificaciones activas en BSM y los permisos de notificaciones desactivados en el dispositivo ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12201:
+  - OLD: - y tener acceso a BSO/BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSO/BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12212:
+  - OLD: - En el contrato de banca a distancia tipo empresa tenga marcada la opción Ver cuentas de particulares "Sí" ❌Sin modelar
+  - NEW: - En el contrato de banca a distancia tipo empresa tenga marcada la opción Ver cuentas de particulares "Sí" ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12221:
+  - OLD: - Móvil con BSM instalado ❌Sin modelar
+  - NEW: - Móvil con BSM instalado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12233:
+  - OLD: - Móvil con BSM instalado ❌Sin modelar
+  - NEW: - Móvil con BSM instalado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12243:
+  - OLD: - Móvil con BSM instalado ❌Sin modelar
+  - NEW: - Móvil con BSM instalado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12253:
+  - OLD: - Móvil con BSM instalado ❌Sin modelar
+  - NEW: - Móvil con BSM instalado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12269:
+  - OLD: - y tener acceso a BSO/BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSO/BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12280:
+  - OLD: - En el contrato de banca a distancia tipo empresa tenga marcada la opción Ver cuentas de particulares "Sí" ❌Sin modelar
+  - NEW: - En el contrato de banca a distancia tipo empresa tenga marcada la opción Ver cuentas de particulares "Sí" ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12289:
+  - OLD: - Móvil con BSM instalado ❌Sin modelar
+  - NEW: - Móvil con BSM instalado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12301:
+  - OLD: - Móvil con BSM instalado ❌Sin modelar
+  - NEW: - Móvil con BSM instalado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12311:
+  - OLD: - Móvil con BSM instalado ❌Sin modelar
+  - NEW: - Móvil con BSM instalado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12321:
+  - OLD: - Móvil con BSM instalado ❌Sin modelar
+  - NEW: - Móvil con BSM instalado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12339:
+  - OLD: - Móvil con BSM instalado ❌Sin modelar
+  - NEW: - Móvil con BSM instalado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12364:
+  - OLD: - Usuario objetivo: Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular, este usuario debe tener antigüedad superior a 6 meses y que tenga vinculación a cualquiera de los siguientes contratos, Vista, Plazo, Valores, Fims, Leasing, Renting, Internacional, Forfaiting, El cliente debe tener actividad reciente en BSM, minimo 3 conexiones en los ultimos 3 meses siempre en 2 meses distintos, por conexiones entendemos consultas, debe tener Dni Caducado o sin informar y no debe haber actualizado el DNI en los ultimos 30 dias prevUAT_iOS, el usuario debe tener contrato de avisos y alertas activo ❌Sin modelar
+  - NEW: - Usuario objetivo: Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular, este usuario debe tener antigüedad superior a 6 meses y que tenga vinculación a cualquiera de los siguientes contratos, Vista, Plazo, Valores, Fims, Leasing, Renting, Internacional, Forfaiting, El cliente debe tener actividad reciente en BSM, minimo 3 conexiones en los ultimos 3 meses siempre en 2 meses distintos, por conexiones entendemos consultas, debe tener Dni Caducado o sin informar y no debe haber actualizado el DNI en los ultimos 30 dias prevUAT_iOS, el usuario debe tener contrato de avisos y alertas activo ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12373:
+  - OLD: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12384:
+  - OLD: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12395:
+  - OLD: - Que sea usuario objetivo para poder actualizar el NIE desde BSM ❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el NIE desde BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12398:
+  - OLD: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular, este usuario debe tener antigüedad superior a 6 meses y que tenga vinculación a cualquiera de los siguientes contratos, Vista, Plazo, Valores, Fims, Leasing, Renting, Internacional, Forfaiting, El cliente debe tener actividad reciente en BSM, minimo 3 conexiones en los ultimos 3 meses siempre en 2 meses distintos, por conexiones entendemos consultas, debe tener NIE Caducado o sin informar y no debe haber actualizado el NIE en los ultimos 30 dias prevUAT_iOS, el usuario debe tener contrato de avisos y alertas activo ❌Sin modelar
+  - NEW: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular, este usuario debe tener antigüedad superior a 6 meses y que tenga vinculación a cualquiera de los siguientes contratos, Vista, Plazo, Valores, Fims, Leasing, Renting, Internacional, Forfaiting, El cliente debe tener actividad reciente en BSM, minimo 3 conexiones en los ultimos 3 meses siempre en 2 meses distintos, por conexiones entendemos consultas, debe tener NIE Caducado o sin informar y no debe haber actualizado el NIE en los ultimos 30 dias prevUAT_iOS, el usuario debe tener contrato de avisos y alertas activo ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12407:
+  - OLD: - Que sea usuario objetivo para poder actualizar el NIE desde BSM ❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el NIE desde BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12410:
+  - OLD: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular, este usuario debe tener antigüedad superior a 6 meses y que tenga vinculación a cualquiera de los siguientes contratos, Vista, Plazo, Valores, Fims, Leasing, Renting, Internacional, Forfaiting, El cliente debe tener actividad reciente en BSM, minimo 3 conexiones en los ultimos 3 meses siempre en 2 meses distintos, por conexiones entendemos consultas, debe tener NIE Caducado o sin informar y no debe haber actualizado el NIE en los ultimos 30 dias prevUAT_iOS, el usuario debe tener contrato de avisos y alertas activo ❌Sin modelar
+  - NEW: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular, este usuario debe tener antigüedad superior a 6 meses y que tenga vinculación a cualquiera de los siguientes contratos, Vista, Plazo, Valores, Fims, Leasing, Renting, Internacional, Forfaiting, El cliente debe tener actividad reciente en BSM, minimo 3 conexiones en los ultimos 3 meses siempre en 2 meses distintos, por conexiones entendemos consultas, debe tener NIE Caducado o sin informar y no debe haber actualizado el NIE en los ultimos 30 dias prevUAT_iOS, el usuario debe tener contrato de avisos y alertas activo ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12420:
+  - OLD: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12431:
+  - OLD: - Que sea usuario objetivo para poder actualizar el NIE desde BSM ❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el NIE desde BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12434:
+  - OLD: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular, este usuario debe tener antigüedad superior a 6 meses y que tenga vinculación a cualquiera de los siguientes contratos, Vista, Plazo, Valores, Fims, Leasing, Renting, Internacional, Forfaiting, El cliente debe tener actividad reciente en BSM, minimo 3 conexiones en los ultimos 3 meses siempre en 2 meses distintos, por conexiones entendemos consultas, debe tener NIE Caducado o sin informar y no debe haber actualizado el NIE en los ultimos 30 dias prevUAT_iOS, el usuario debe tener contrato de avisos y alertas activo ❌Sin modelar
+  - NEW: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular, este usuario debe tener antigüedad superior a 6 meses y que tenga vinculación a cualquiera de los siguientes contratos, Vista, Plazo, Valores, Fims, Leasing, Renting, Internacional, Forfaiting, El cliente debe tener actividad reciente en BSM, minimo 3 conexiones en los ultimos 3 meses siempre en 2 meses distintos, por conexiones entendemos consultas, debe tener NIE Caducado o sin informar y no debe haber actualizado el NIE en los ultimos 30 dias prevUAT_iOS, el usuario debe tener contrato de avisos y alertas activo ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12442:
+  - OLD: - y tener acceso a BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12450:
+  - OLD: - y tener acceso a BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12458:
+  - OLD: - y tener acceso a BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12466:
+  - OLD: - y tener acceso a BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12473:
+  - OLD: - Disponer de un usuario que tenga acceso a BSM ❌Sin modelar
+  - NEW: - Disponer de un usuario que tenga acceso a BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12483:
+  - OLD: - y tener acceso a BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12492:
+  - OLD: - y tener acceso a BSM ❌Sin modelar
+  - NEW: - y tener acceso a BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12499:
+  - OLD: - Tener un usuario con un email de y tener acceso a BSM ❌Sin modelar
+  - NEW: - Tener un usuario con un email de y tener acceso a BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12639:
+  - OLD: - Disponer de dos usuarUAT_iOS que contenga un contrato de banca a distancia de tipo particular ❌Sin modelar
+  - NEW: - Disponer de dos usuarUAT_iOS que contenga un contrato de banca a distancia de tipo particular ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12713:
+  - OLD: - Tener la aplicación BSM cerrada ❌Sin modelar
+  - NEW: - Tener la aplicación BSM cerrada ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12715:
+  - OLD: - Disponer de un código QR para la siguiente url: bsmobil://openOp/voteDelegation ❌Sin modelar
+  - NEW: - Disponer de un código QR para la siguiente url: bsmobil://openOp/voteDelegation ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12733:
+  - OLD: - Acceso a BSM ❌Sin modelar
+  - NEW: - Acceso a BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12741:
+  - OLD: - Acceso a BSM ❌Sin modelar
+  - NEW: - Acceso a BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12856:
+  - OLD: - Disponer de la aplicación de BSM ❌Sin modelar
+  - NEW: - Disponer de la aplicación de BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12967:
+  - OLD: - Tener un usuario con contrato de banca a distancia de Tipo Particular de Tipo VTPC1 sin Firma y SIN permisos a la agenda del teléfono Y se cumplen las condiciones de firma oculta de la operación BIZUM (VTPC1, enrolado e importe de la operación menor a 100?) ❌Sin modelar
+  - NEW: - Tener un usuario con contrato de banca a distancia de Tipo Particular de Tipo VTPC1 sin Firma y SIN permisos a la agenda del teléfono Y se cumplen las condiciones de firma oculta de la operación BIZUM (VTPC1, enrolado e importe de la operación menor a 100?) ✅TIENE_BANCA_A_DISTANCIA
+
+Line 12974:
+  - OLD: - Tener un usuario Particular VTPC1 que esté registrado en BIZUM y tener activada la firma y notificación Push en BSM ❌Sin modelar
+  - NEW: - Tener un usuario Particular VTPC1 que esté registrado en BIZUM y tener activada la firma y notificación Push en BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 13213:
+  - OLD: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular pilotado con DENY en el login ❌Sin modelar
+  - NEW: - Disponer de un usuario que contenga un contrato de banca a distancia tipo Particular pilotado con DENY en el login ✅TIENE_BANCA_A_DISTANCIA
+
+Line 13384:
+  - OLD: - Un usuario particular de banca a distancia que no tenga la cuenta Ahorro Sabadell ❌Sin modelar
+  - NEW: - Un usuario particular de banca a distancia que no tenga la cuenta Ahorro Sabadell ✅TIENE_BANCA_A_DISTANCIA
+
+Line 13392:
+  - OLD: - Un usuario particular de banca a distancia que tenga la cuenta Ahorro Sabadell ❌Sin modelar
+  - NEW: - Un usuario particular de banca a distancia que tenga la cuenta Ahorro Sabadell ✅TIENE_BANCA_A_DISTANCIA
+
+Line 13564:
+  - OLD: - Disponer de dos usuario empresa con contrato de banca a distancia que comparten cuenta con firma especial o conjunta de validación 2 firmas ❌Sin modelar
+  - NEW: - Disponer de dos usuario empresa con contrato de banca a distancia que comparten cuenta con firma especial o conjunta de validación 2 firmas ✅TIENE_BANCA_A_DISTANCIA
+
+Line 13572:
+  - OLD: - Disponer de un usuario empresa con contrato de banca a distancia con firma especial (Ir variando con los 5 tipos de firma con y sin limite) ❌Sin modelar
+  - NEW: - Disponer de un usuario empresa con contrato de banca a distancia con firma especial (Ir variando con los 5 tipos de firma con y sin limite) ✅TIENE_BANCA_A_DISTANCIA
+
+Line 13580:
+  - OLD: - Disponer de un usuario empresa con contrato de banca a distancia con firma conjunta o especial ❌Sin modelar
+  - NEW: - Disponer de un usuario empresa con contrato de banca a distancia con firma conjunta o especial ✅TIENE_BANCA_A_DISTANCIA
+
+Line 13641:
+  - OLD: - Pasos a seguir: 1. Acceder a BSM Empresa con el usuario de Onboarding Autónomo ❌Sin modelar
+  - NEW: - Pasos a seguir: 1. Acceder a BSM Empresa con el usuario de Onboarding Autónomo ✅TIENE_BANCA_A_DISTANCIA
+
+Line 13652:
+  - OLD: - Pasos a seguir: 1. Acceder a BSM Particular con el usuario de Onboarding Particular ❌Sin modelar
+  - NEW: - Pasos a seguir: 1. Acceder a BSM Particular con el usuario de Onboarding Particular ✅TIENE_BANCA_A_DISTANCIA
+
+Line 13662:
+  - OLD: - disponer de dos usuarUAT_iOS con contrato de banca a distancia de tipo particular (uno de ellos son solo una cuenta y otro con más de una) ❌Sin modelar
+  - NEW: - disponer de dos usuarUAT_iOS con contrato de banca a distancia de tipo particular (uno de ellos son solo una cuenta y otro con más de una) ✅TIENE_BANCA_A_DISTANCIA
+
+Line 13669:
+  - OLD: - disponer de dos usuarUAT_iOS con contrato de banca a distancia de tipo particular (uno de ellos con solo una tarjeta y otro con más de una) ❌Sin modelar
+  - NEW: - disponer de dos usuarUAT_iOS con contrato de banca a distancia de tipo particular (uno de ellos con solo una tarjeta y otro con más de una) ✅TIENE_BANCA_A_DISTANCIA
+
+Line 13676:
+  - OLD: - disponer de un usuario o varUAT_iOS usuarUAT_iOS que tenga dado de alta un contrato de banca a distancia de tipo particular y que tengan al menos una tarjeta en los estados pendiente de renovar, caducada y activa ❌Sin modelar
+  - NEW: - disponer de un usuario o varUAT_iOS usuarUAT_iOS que tenga dado de alta un contrato de banca a distancia de tipo particular y que tengan al menos una tarjeta en los estados pendiente de renovar, caducada y activa ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14018:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14025:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con tarjeta y movimientos ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con tarjeta y movimientos ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14032:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con cuenta con saldo retenido ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con cuenta con saldo retenido ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14039:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con telefono único y servicio Bizum no activado ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con telefono único y servicio Bizum no activado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14046:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con Bizum activado y saldo en cuenta vinculada ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con Bizum activado y saldo en cuenta vinculada ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14053:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con tarjeta habilitada para instant money ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con tarjeta habilitada para instant money ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14060:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con cuenta con saldo ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con cuenta con saldo ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14067:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con dos cuentas con saldo ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con dos cuentas con saldo ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14074:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14081:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con correspondencia ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con correspondencia ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14088:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con tarjeta de credito y movimiento fraccionable en esta ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con tarjeta de credito y movimiento fraccionable en esta ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14095:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con tarjeta de debito con movimiento fraccionable y tarjeta de credito para poder realizar el fraccionamiento ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular con tarjeta de debito con movimiento fraccionable y tarjeta de credito para poder realizar el fraccionamiento ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14102:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular sin tarjeta de débito ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular sin tarjeta de débito ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14109:
+  - OLD: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular sin tarjeta de crédito y scoring ❌Sin modelar
+  - NEW: - Disponer de BSM con selector de entornos instalado con tealium activado y usuario Particular sin tarjeta de crédito y scoring ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14326:
+  - OLD: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14335:
+  - OLD: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ❌Sin modelar
+  - NEW: - Que sea usuario objetivo para poder actualizar el DNI desde BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14353:
+  - OLD: - tener activada la notificación Push en el BSM ❌Sin modelar
+  - NEW: - tener activada la notificación Push en el BSM ✅TIENE_BANCA_A_DISTANCIA
+
+Line 14461:
+  - OLD: - y una cuenta vista con al menos dos titulares uno que tenga el TYC firmado y otro que no lo tenga ❌Sin modelar
+  - NEW: - y una cuenta vista con al menos dos titulares uno que tenga el TYC firmado y otro que no lo tenga ✅TIPO_DE_FIRMA_DIGITAL_BSO
+

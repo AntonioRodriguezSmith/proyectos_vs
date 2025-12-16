@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Informe: Proyecto de IA en DXC</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; }
+    h1, h2, h3 { color: #1a237e; }
+    ul { margin-bottom: 1em; }
+    .grafica { max-width: 600px; margin: 2em 0; }
+  </style>
+</head>
+<body>
+  <h1>Informe: Proyecto de IA en DXC</h1>
+
+  <h2>Introducción</h2>
+  <p>Este informe explora las oportunidades y el impacto de la implantación de un agente de Inteligencia Artificial (IA) en los procesos de DXC Technology, con especial foco en la automatización, la gestión de datos y la analítica avanzada.</p>
+
+  <h2>Objetivos del Proyecto</h2>
+  <ul>
+    <li>Mejorar la eficiencia operativa mediante automatización inteligente.</li>
+    <li>Optimizar la gestión y calidad de los datos (TDM, ICARIA).</li>
+    <li>Facilitar la toma de decisiones basada en analítica avanzada.</li>
+    <li>Aumentar la trazabilidad y la documentación de procesos críticos.</li>
+  </ul>
+
+  <h2>Áreas de Aplicación</h2>
+  <ul>
+    <li><b>Automatización de tareas repetitivas</b>: Validación, backup, generación de informes, control de versiones.</li>
+    <li><b>Gestión de datos de prueba (TDM)</b>: Orquestación, anonimización, generación de datos sintéticos, cumplimiento normativo.</li>
+    <li><b>Integración con ICARIA TDM</b>: Provisión automática de datos, reporting y trazabilidad.</li>
+    <li><b>Analítica y reporting</b>: Detección de patrones, generación de dashboards, alertas y recomendaciones.</li>
+    <li><b>Soporte y asistencia</b>: Respuestas automáticas, ayuda contextual, documentación viva.</li>
+  </ul>
+
+  <h2>Implementaciones Reales de IA en DXC</h2>
+  <ul>
+    <li><b>Automatización inteligente de procesos</b>: Uso de RPA, chatbots y asistentes virtuales para reducir tareas manuales y mejorar la eficiencia operativa.</li>
+    <li><b>Analítica predictiva y machine learning</b>: Modelos para anticipar tendencias, detectar riesgos y optimizar la toma de decisiones en tiempo real.</li>
+    <li><b>Integración de IA en sistemas legacy y cloud</b>: Modernización de plataformas existentes mediante IA, facilitando la interoperabilidad y la escalabilidad.</li>
+    <li><b>Soluciones sectoriales</b>: Implementaciones específicas para banca, salud, industria y servicios públicos, adaptando la IA a las necesidades de cada dominio.</li>
+    <li><b>Gobernanza y seguridad de datos</b>: Enfoque en la calidad, trazabilidad y cumplimiento normativo en el ciclo de vida de los datos.</li>
+    <li><b>Personalización y automatización del soporte</b>: Asistentes virtuales y sistemas de recomendación para mejorar la experiencia de usuario y la resolución de incidencias.</li>
+  </ul>
+
+  <h2>Tecnologías y Lenguajes Utilizados</h2>
+  <ul>
+    <li>Python (automatización, scripts, IA)</li>
+    <li>Markdown (documentación, informes)</li>
+    <li>JSON (configuración, patrones, modos)</li>
+    <li>Herramientas de orquestación y backup</li>
+  </ul>
+
+  <h2>Métricas y Resultados</h2>
+  <div class="grafica">
+    <canvas id="graficaTiempo"></canvas>
+  </div>
+  <ul>
+    <li>Reducción del tiempo de validación y backup en un 60%.</li>
+    <li>Disminución de errores humanos en tareas repetitivas.</li>
+    <li>Incremento de la trazabilidad y facilidad de auditoría.</li>
+    <li>Capacidad de adaptación a nuevos proyectos y dominios.</li>
+  </ul>
+
+  <h2>Potencial de Ampliación</h2>
+  <ul>
+    <li>Integración con APIs externas y sistemas legacy.</li>
+    <li>Ampliación a otros departamentos (banca, salud, industria).</li>
+    <li>Implementación de analítica predictiva y generación automática de insights.</li>
+    <li>Escalabilidad para gestión multi-proyecto y multi-equipo.</li>
+  </ul>
+
+  <h2>Conclusión</h2>
+  <p>La implantación de un agente IA en DXC permite transformar procesos clave, mejorar la calidad de los datos y acelerar la entrega de valor. Se recomienda avanzar en la integración progresiva de agentes inteligentes en todas las áreas críticas del negocio.</p>
+
+  <script>
+    const ctx = document.getElementById('graficaTiempo').getContext('2d');
+    new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: ['Validación', 'Backup', 'Generación de informes'],
+        datasets: [
+          {
+            label: 'Solo humano',
+            data: [10, 8, 12],
+            backgroundColor: 'rgba(255,99,132,0.6)'
+          },
+          {
+            label: 'Humano + IA',
+            data: [4, 3, 5],
+            backgroundColor: 'rgba(54,162,235,0.6)'
+          }
+        ]
+      },
+      options: {
+        scales: {
+          y: { beginAtZero: true }
+        },
+        plugins: {
+          title: {
+            display: true,
+            text: 'Reducción de tiempo (horas)'
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>

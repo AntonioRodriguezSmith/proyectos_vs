@@ -1,0 +1,16 @@
+REPORTE DE ERRORES POST-CORRECCIÓN
+================================================================================
+
+TOTAL ERRORES RESTANTES: 5
+
+
+CODIGO_MAL_FORMADO: 3
+--------------------------------------------------------------------------------
+  L1661: 'TIENE_CUENTA_VISTA❌Sin'
+  L1825: 'TIENE_MAS_DE_X_CUENTAS_VISTA_PARAMETRO❌Sin'
+  L12183: 'TIENE_TARJETA_PAGO_ACTiva'
+
+SIN_MODELAR_PERO_CON_CODIGO: 2
+--------------------------------------------------------------------------------
+  L1661
+  L1825

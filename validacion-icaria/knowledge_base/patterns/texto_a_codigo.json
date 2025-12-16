@@ -1,0 +1,25 @@
+{
+  "tipo_persona": {
+    "patterns": [
+      {"regex": "(?i)particular", "codigo": "ES_PERSONA_FISICA", "texto": "Tipo Particular"},
+      {"regex": "(?i)empresa", "codigo": "ES_PERSONA_JURIDICA", "texto": "Tipo Empresa"},
+      {"regex": "(?i)aut[oó]nomo", "codigo": "ES_AUTONOMO", "texto": "Es Autónomo"}
+    ]
+  },
+  "tipo_contrato": {
+    "patterns": [
+      {"regex": "(?i)banca.*distancia.*empresa", "codigo": "TIENE_BANCA_A_DISTANCIA_EMPRESA"},
+      {"regex": "(?i)banca.*distancia.*aut[oó]nomo", "codigo": "TIENE_BANCA_A_DISTANCIA_AUTONOMO"},
+      {"regex": "(?i)banca.*distancia", "codigo": "TIENE_BANCA_A_DISTANCIA"}
+    ]
+  },
+  "productos": {
+    "patterns": [
+      {"regex": "(?i)cuenta.*vista", "codigo": "TIENE_CUENTA_VISTA"},
+      {"regex": "(?i)tarjeta.*cr[eé]dito", "codigo": "TIENE_TARJETA_CREDITO_ACTIVA"},
+      {"regex": "(?i)tarjeta.*pago", "codigo": "TIENE_TARJETA_PAGO_ACTIVA"},
+      {"regex": "(?i)firma.*vTPC", "codigo": "TIPO_DE_FIRMA_DIGITAL_BSO"},
+      {"regex": "(?i)saldo", "codigo": "TIPO_SALDO_DV_PARAMETRIZADO"}
+    ]
+  }
+}

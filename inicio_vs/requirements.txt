@@ -1,0 +1,4 @@
+# requirements.txt para scripts de inicio_vs
+# Solo incluye dependencias externas, no módulos estándar
+
+# (Actualmente, los scripts solo usan módulos estándar de Python)

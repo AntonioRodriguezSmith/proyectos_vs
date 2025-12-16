@@ -1,0 +1,44 @@
+SEPARACIÓN DE CÓDIGOS PEGADOS
+================================================================================
+
+Backup: c:\Users\rodri\proyectos_vs\data\entrada\casos_bs\casos_revisados_backup_codigos_separados.txt
+Separaciones realizadas: 19
+
+L1631: Separado en 2 precondiciones
+  - Usuario particular con firma vTPC1 o vTPC2✅ES_PERSONA_FISI
+L1639: Separado en 2 precondiciones
+  - Usuario particular con firma vTPC1 o vTPC2✅ES_PERSONA_FISI
+L1647: Separado en 2 precondiciones
+  - Usuario particular con firma vTPC1 o vTPC2✅ES_PERSONA_FISI
+L1648: Separado en 2 precondiciones
+  - Con una cuenta base y sin cuenta cialp y con DNI caducado✅
+L1655: Separado en 2 precondiciones
+  - Usuario particular con firma vTPC1 o vTPC2✅ES_PERSONA_FISI
+L1663: Separado en 2 precondiciones
+  - Usuario particular con firma vTPC1 o vTPC2✅ES_PERSONA_FISI
+L1664: Separado en 2 precondiciones
+  - Con una cuenta base y sin cuenta cialp y DNI sin caducar✅T
+L1671: Separado en 2 precondiciones
+  - Usuario particular con firma vTPC1 o vTPC2✅ES_PERSONA_FISI
+L1672: Separado en 2 precondiciones
+  - Con una cuenta base y sin cuenta cialp y DNI sin caducar✅T
+L1692: Separado en 2 precondiciones
+  - Posea diversas cuentas con movimientos que tengan más de u
+L2037: Separado en 2 precondiciones
+  - Usuario BSO Particular con firma VTPC1 o VTPC2✅ES_PERSONA_
+L2044: Separado en 2 precondiciones
+  - Usuario de BSO particular con firma VTPC1 o VTPC2✅ES_PERSO
+L2051: Separado en 2 precondiciones
+  - Usuario BSO Particular con firma VTPC1 o VTPC2✅ES_PERSONA_
+L2320: Separado en 2 precondiciones
+  - que tenga varias tarjetas Activas y al menos una de ellas 
+L2368: Separado en 2 precondiciones
+  - que diponga de al menos una cuenta vista con saldo para po
+L2400: Separado en 2 precondiciones
+  - Disponer de un usuario que contenga un contrato de banca a
+L2407: Separado en 2 precondiciones
+  - Disponer de un usuario que contenga un contrato de banca a
+L2440: Separado en 2 precondiciones
+  - que contenga más de 20 cuentas vista con un tipo de firma 
+L2556: Separado en 2 precondiciones
+  - este usuario debe tener diversas cuentas de las cuales al 

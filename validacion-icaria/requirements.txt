@@ -1,0 +1,14 @@
+﻿# Analisis de datos
+jupyter==1.0.0
+pandas==2.2.0
+numpy==1.26.4
+openpyxl==3.1.2
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Procesamiento de texto
+chardet==5.2.0
+
+# Utilidades
+tqdm==4.66.1
+python-dotenv==1.0.0
