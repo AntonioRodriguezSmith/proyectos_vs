@@ -56,3 +56,27 @@ Thumbs.db
 
 # Otros archivos a ignorar
 *.orig
+
+# Añadidos por limpieza de monorepo
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+backups/
+backups_externos/
+output_analisis/
+.env
+.env.*
+.vscode/
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+*.ipynb_checkpoints/
