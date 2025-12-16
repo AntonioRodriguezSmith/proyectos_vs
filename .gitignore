@@ -81,3 +81,7 @@ output_analisis/
 Thumbs.db
 *.ipynb_checkpoints/
 backups_remote/
+backups_externos_*.zip
+*.pyc
+.pytest_cache/
+.idea/
