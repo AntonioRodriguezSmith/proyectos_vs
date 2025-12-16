@@ -1,7 +1,9 @@
 # cleanup_repo.ps1
 # Ejecutar desde la raíz del repo: C:\Users\arodriguezsm\proyectos_vs
+if (-not $PSScriptRoot) { $PSScriptRoot = (Get-Location).Path }
 Set-Location $PSScriptRoot
 
+$ErrorActionPreference = 'Stop'
 Write-Host "Iniciando limpieza segura del repositorio..." -ForegroundColor Cyan
 
 # 1) Crear carpeta de backups_externos
@@ -15,28 +17,33 @@ if (-not (Test-Path $backupDir)) {
 
 # 2) Mover items seguros (si existen)
 $moveItems = @(
-  @{ src="modeloRagAlejandria\asistente_jarvis\jarvis.db"; dest="$backupDir" },
-  @{ src="validacion-icaria\archivo_obsoletos"; dest="$backupDir\archivo_obsoletos" },
-  @{ src="backups"; dest="$backupDir\backups" },
-  @{ src="output_analisis"; dest="$backupDir\output_analisis" }
+  "modeloRagAlejandria\asistente_jarvis\jarvis.db",
+  "validacion-icaria\archivo_obsoletos",
+  "backups",
+  "output_analisis"
 )
 
-foreach ($item in $moveItems) {
-  if (Test-Path $item.src) {
-    $destDir = Split-Path $item.dest -Parent
-    if (-not (Test-Path $destDir)) { New-Item -ItemType Directory -Path $destDir | Out-Null }
-    Move-Item -Path $item.src -Destination $item.dest -Force
-    Write-Host "Movido: $($item.src) -> $($item.dest)"
+foreach ($srcRel in $moveItems) {
+  $srcPath = Join-Path $PSScriptRoot $srcRel
+  if (Test-Path $srcPath) {
+    $destPath = Join-Path $backupDir (Split-Path $srcRel -Leaf)
+    if (-not (Test-Path (Split-Path $destPath -Parent))) { New-Item -ItemType Directory -Path (Split-Path $destPath -Parent) -Force | Out-Null }
+    Move-Item -Path $srcPath -Destination $destPath -Force
+    Write-Host "Movido: $srcRel -> $(Split-Path $destPath -Leaf)"
   } else {
-    Write-Host "No existe: $($item.src)" -ForegroundColor DarkGray
+    Write-Host "No existe: $srcRel" -ForegroundColor DarkGray
   }
 }
 
 # 2b) Opcional: comprimir backups_externos
 $zipPath = Join-Path $PSScriptRoot "backups_externos.zip"
 if (-not (Test-Path $zipPath)) {
-  Compress-Archive -Path (Join-Path $backupDir "*") -DestinationPath $zipPath -Force -ErrorAction SilentlyContinue
-  if (Test-Path $zipPath) { Write-Host "Creado ZIP: $zipPath" }
+  try {
+    Compress-Archive -Path (Join-Path $backupDir "*") -DestinationPath $zipPath -Force
+    if (Test-Path $zipPath) { Write-Host "Creado ZIP: $zipPath" }
+  } catch {
+    Write-Host "Advertencia: no se pudo crear ZIP (posible tamaños grandes o permisos)." -ForegroundColor Yellow
+  }
 } else {
   Write-Host "ZIP de backup ya existe: $zipPath" -ForegroundColor DarkGray
 }
@@ -86,28 +93,40 @@ if (-not (Test-Path $gitignore)) {
 
 # 4) Inicializar git y commits (si .git no existe)
 if (-not (Test-Path (Join-Path $PSScriptRoot ".git"))) {
-  git init
-  git branch -M main
-  git add .gitignore
-  git commit -m "Update .gitignore" --no-verify
-  Write-Host "Repositorio inicializado y .gitignore commiteado."
+  if (Get-Command git -ErrorAction SilentlyContinue) {
+    git init
+    git branch -M main
+    git add .gitignore
+    git commit -m "Update .gitignore" --no-verify
+    Write-Host "Repositorio inicializado y .gitignore commiteado."
+  } else {
+    Write-Host "Git no está disponible en PATH; omitiendo inicialización." -ForegroundColor Yellow
+  }
 } else {
   Write-Host "Ya existe carpeta .git - omitiendo git init." -ForegroundColor DarkGray
 }
 
 # 4b) Añadir todo y commit limpio
-git add .
-git commit -m "Initial clean commit" -q --allow-empty
-Write-Host "Commit inicial realizado."
+if (Get-Command git -ErrorAction SilentlyContinue) {
+  git add .
+  git commit -m "Initial clean commit" -q --allow-empty
+  Write-Host "Commit inicial realizado."
+} else {
+  Write-Host "Git no disponible: no se realizó commit inicial." -ForegroundColor Yellow
+}
 
 # 4c) Quitar del índice artefactos regenerables si necesitases (no borra archivos locales)
 $toUntrack = @("__pycache__", ".venv", ".vscode", "backups", "output_analisis")
-foreach ($p in $toUntrack) {
-  if (Test-Path (Join-Path $PSScriptRoot $p)) {
-    git rm -r --cached $p -q 2>$null
+if (Get-Command git -ErrorAction SilentlyContinue) {
+  foreach ($p in $toUntrack) {
+    if (Test-Path (Join-Path $PSScriptRoot $p)) {
+      git rm -r --cached $p -q 2>$null
+    }
   }
+  git commit -m "Remove generated artifacts from index" -q --allow-empty
+} else {
+  Write-Host "Git no disponible: no se pudo desindexar artefactos." -ForegroundColor Yellow
 }
-git commit -m "Remove generated artifacts from index" -q --allow-empty
 
 Write-Host "Limpieza local completada. Revisa backups_externos antes de borrar archivos." -ForegroundColor Green
 
