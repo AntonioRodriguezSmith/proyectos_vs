@@ -80,3 +80,4 @@ output_analisis/
 .DS_Store
 Thumbs.db
 *.ipynb_checkpoints/
+backups_remote/

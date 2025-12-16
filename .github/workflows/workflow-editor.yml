@@ -1,0 +1,55 @@
+name: Workflow Editor
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  workflows: write
+
+jobs:
+  edit-workflow:
+    name: Edit or remove workflow files (manual)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: List current workflows
+        run: |
+          echo "Workflows in .github/workflows/"
+          ls -la .github/workflows || true
+
+      - name: Example — append a note to `python-ci.yml`
+        run: |
+          TARGET=.github/workflows/python-ci.yml
+          if [ -f "$TARGET" ]; then
+            echo "# Edited by workflow-editor on $(date -u)" >> "$TARGET"
+            git config user.name "${{ github.actor }}"
+            git config user.email "${{ github.actor }}@users.noreply.github.com"
+            git add "$TARGET"
+            git commit -m "docs: update python-ci.yml via workflow-editor" || echo "No changes to commit"
+          else
+            echo "No $TARGET found, skipping append step"
+          fi
+
+      - name: Example — remove a workflow file (safe: only if exists)
+        run: |
+          REMOVE=.github/workflows/old-workflow.yml
+          if [ -f "$REMOVE" ]; then
+            git rm -f "$REMOVE"
+            git commit -m "chore: remove old workflow" || echo "No changes to commit"
+          else
+            echo "No $REMOVE to remove"
+          fi
+
+      - name: Push changes back
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          # Push back to the same branch that triggered the workflow.
+          # If the branch is protected this push may be rejected — use a feature branch instead.
+          git push origin "HEAD:$BRANCH" || (echo "Push failed (protected branch or no permission)" && exit 0)
