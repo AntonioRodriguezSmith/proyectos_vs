@@ -1,4 +1,5 @@
-from src.jarvis_model import JarvisModel
+
+from jarvis_model import JarvisModel
 
 def test_inferencia_basica():
     modelo = JarvisModel()

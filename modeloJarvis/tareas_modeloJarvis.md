@@ -1,8 +1,6 @@
----
-- [ ] Modularizar y centralizar todas las dependencias externas y servicios del monorepo en módulos reutilizables y mantenibles (tarea global, afecta a todos los proyectos)
----
-## Checklist de funcionamiento y dependencias para main_jarvis.py
+# Checklist de funcionamiento y dependencias para main_jarvis.py
 
+- [ ] Modularizar y centralizar todas las dependencias externas y servicios del monorepo en módulos reutilizables y mantenibles (tarea global, afecta a todos los proyectos)
 - [ ] Python 3.14 instalado (o versión compatible ≥ 3.8 si no usas relanzador).
 - [ ] El entorno virtual está activado (opcional pero recomendable).
 - [ ] El script se ejecuta desde el directorio correcto o usa rutas relativas a __file__.
@@ -15,7 +13,8 @@
 - [ ] wikipedia instalado (opcional, solo para búsquedas en Wikipedia)
 - [ ] Permisos de lectura y escritura en el directorio del script.
 - [ ] Conexión a Internet para funciones externas (traducción, OpenAI, Wikipedia, APIs, etc).
-# Tareas pendientes para modeloJarvis
+
+## Tareas pendientes para modeloJarvis
 
 - [ ] Analizar la posibilidad de ejecutar Jarvis (API) con un solo comando desde cualquier ubicación del monorepo (por ejemplo, usando un script o ajustando PYTHONPATH).
 - [ ] Documentar la mejor práctica para lanzar el asistente y evitar errores de importación.
@@ -47,4 +46,6 @@
 - [ ] Documentar en README y tareas cualquier cambio relevante en la gestión de ramas.
 
 ---
-**Norma:** Las tareas propias de este proyecto deben mantenerse en este archivo local. El directorio central de tareas solo debe contener tareas globales o enlaces a este archivo. No mezclar tareas globales y locales.
+__Norma:__ Las tareas propias de este proyecto deben mantenerse en este archivo local. El directorio central de tareas (`/proyectos_vs/tareas_central.md`) solo debe contener tareas globales o enlaces a este archivo. No mezclar tareas globales y locales.
+__Ejemplo de enlace desde el directorio central:__  
+`[Tareas modeloJarvis](./modeloJarvis/tareas_modeloJarvis.md)`

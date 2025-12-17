@@ -1,26 +1,37 @@
 """
 Módulo principal del modelo J.A.R.V.I.S.
-Incluye la clase base y métodos para entrenamiento e inferencia.
+Integra la lógica de conducta (modos, patrones, personalidad) y el razonamiento generativo (AGR).
+Permite procesar entradas, decidir la mejor estrategia de respuesta y mantener el contexto del agente.
 """
+
+from conducta.agente import AgenteConducta
+from agr.agente_agr import AgenteAGR
 
 class JarvisModel:
     def __init__(self):
-        # Modos especiales: clave -> nombre del modo
-        self.modos = {
-            "arrebatao": "la jumpa (Arcangel)"
-            # Añadir aquí más palabras clave y modos en el futuro
-        }
+        """
+        Inicializa los módulos de conducta y AGR.
+        """
+        self.conducta = AgenteConducta()
+        self.agr = AgenteAGR()
         self.modo_activo = None
 
     def entrenar(self, datos):
-        """Entrena el modelo con los datos proporcionados."""
-        pass
+        """
+        Entrena el modelo de aprendizaje (AGR) con los datos proporcionados.
+        """
+        self.agr.entrenar(datos)
 
     def inferir(self, entrada):
-        """Realiza inferencia sobre una entrada dada. Detecta modos especiales por palabra clave."""
-        for clave, modo in self.modos.items():
-            if clave in entrada.lower():
-                self.modo_activo = modo
-                return f"[Modo especial activado: {modo}] ¡Aquí Arcangel, en modo 'la jumpa'! ¿Qué necesitas?"
+        """
+        Procesa una entrada:
+        1. Intenta responder usando modos o patrones de conducta.
+        2. Si no hay modo especial, delega la inferencia al razonamiento generativo (AGR).
+        Devuelve la respuesta generada y actualiza el modo activo.
+        """
+        respuesta_conducta, modo = self.conducta.inferir(entrada)
+        if modo:
+            self.modo_activo = modo
+            return respuesta_conducta
         self.modo_activo = None
-        return "[Respuesta generada por J.A.R.V.I.S.]"
+        return self.agr.inferir(entrada)
