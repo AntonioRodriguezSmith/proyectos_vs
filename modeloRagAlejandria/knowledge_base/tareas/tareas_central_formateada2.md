@@ -1,13 +1,10 @@
-
-
+# Archivo formateado desde tareas_central.md
 
 ## Ideas y próximos pasos
-
 
 ## Tarea global prioritaria
 
 # 3. Tarea global prioritaria Tareas y estado actual del sistema#
-
 
 - Si necesitas más automatismos, documenta el flujo y el script asociado.
 
@@ -17,15 +14,12 @@
 
 Repositorio remoto: https://github.com/AntonioRodriguezSmith
 
-   Revisar y limpiar la estructura local: dejar solo archivos y carpetas que se quieran conservar y versionar.
-
+Revisar y limpiar la estructura local: dejar solo archivos y carpetas que se quieran conservar y versionar.
 
 1. Mantener actualizados los archivos de tareas locales y centralizados.
 2. Revisar y mejorar la organización y nomenclatura de carpetas y archivos en todos los proyectos.
 3. Documentar y transferir cualquier cambio relevante a Alejandría para trazabilidad.
 4. Planificar la automatización de la sincronización de tareas y la creación de nuevos proyectos en el futuro.
-
-
 
 ## Ideas y próximos pasos
 
@@ -37,13 +31,10 @@ Repositorio remoto: https://github.com/AntonioRodriguezSmith
 - Centralizar la gestión de configuraciones compartidas (como el diccionario) en un módulo o servicio común.
 - Mejorar la documentación de integración entre asistentes (Jarvis, Arcangel, etc.).
 
-
 ## Tareas por proyecto
-
 
 ---
 Cada proyecto debe mantener su propio archivo de tareas actualizado y enlazado aquí para facilitar la gestión y trazabilidad.
-
 ---
 
 1. Documentar en README y en Alejandría los cambios recientes y la estructura final.
@@ -53,13 +44,11 @@ Cada proyecto debe mantener su propio archivo de tareas actualizado y enlazado a
 
 ### Acciones realizadas
 
-
 ### Observaciones
 - El control de versiones con git está inactivo, por lo que este archivo sirve como registro manual de cambios y tareas.
 - Mantener este archivo actualizado hasta que git vuelva a estar operativo.
 
 ---
-
 
 2. Inicializar git en la raíz correcta (ya hecho en proyectos_vs).
 3. Añadir todos los archivos al control de versiones: git add .
@@ -70,4 +59,3 @@ Cada proyecto debe mantener su propio archivo de tareas actualizado y enlazado a
 8. Realizar cualquier cambio mayor (reorganización, migración, etc.) ya bajo control de versiones.
 
 Actualiza o elimina esta sección una vez completada la migración.
-

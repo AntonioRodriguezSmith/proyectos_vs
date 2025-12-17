@@ -17,3 +17,6 @@ Este archivo contiene las tareas propias y el registro de cambios del proyecto i
 ## Observaciones
 - El control de versiones con git está inactivo, por lo que este archivo sirve como registro manual de cambios y tareas.
 - Mantener este archivo actualizado hasta que git vuelva a estar operativo.
+
+
+

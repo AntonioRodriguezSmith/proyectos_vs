@@ -1,0 +1,1 @@
+¡Bienvenido a Jarvis! Puedes interactuar en modo normal o activar modos especiales usando palabras clave como "arrebatao" o "Brains & Bytes". Consulta la documentación para más ejemplos y personalización.

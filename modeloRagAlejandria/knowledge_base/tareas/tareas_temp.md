@@ -10,3 +10,6 @@
 8. Realizar cualquier cambio mayor (reorganización, migración, etc.) ya bajo control de versiones.
 
 Actualiza o elimina este archivo una vez completada la migración.
+
+
+
